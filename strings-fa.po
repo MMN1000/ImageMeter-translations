@@ -5501,7 +5501,7 @@ msgstr "از پیش تعیین شده ..."
 
 msgctxt "textbox_text_preset_open_prefs"
 msgid "(Define presets …)"
-msgstr ""
+msgstr "(تعریف ایستگاه از پیش تنظیم شده ...)"
 
 msgctxt "textbox_hint_undefined_text"
 msgid "click to enter text"
