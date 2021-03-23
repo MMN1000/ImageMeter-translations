@@ -138,7 +138,7 @@ msgstr "کپی به کلیپ بورد"
 
 msgctxt "imageLibrary_image_contextMenu_pasteAnnotationFromClipboard"
 msgid "Paste annotation"
-msgstr ""
+msgstr "چسباندن حاشیه نویسی"
 
 msgctxt "imageLibrary_image_contextMenu_duplicate"
 msgid "Duplicate"
@@ -680,8 +680,8 @@ msgstr "شامل حرفه ای و تمام بسته های افزونه است"
 #. dialogs that explain why we need an upgrade
 #, c-format
 msgctxt "needUpgradeDialog_titleTemplate"
-msgid "%1$s افزونه"
-msgstr ""
+msgid "%1$s Add-On"
+msgstr "%1$s افزونه"
 
 #, c-format
 msgctxt "needUpgradeDialog_createSubfolders"
@@ -1115,7 +1115,7 @@ msgstr "ذخیره در گالری"
 
 msgctxt "dialog_export_format_show_next_time"
 msgid "Show format selection next time"
-msgstr ""
+msgstr "دفعه بعد انتخاب فرمت را نشان دهید"
 
 #. image export
 msgctxt "dialog_image_export_options_title"
@@ -2902,8 +2902,8 @@ msgid "Purge interval"
 msgstr "فاصله پاکسازی"
 
 msgctxt "pref_storage_deleted_files_purge_delay_dialog"
-msgid "فاصله پاکسازی"
-msgstr ""
+msgid "Purge interval"
+msgstr "فاصله پاکسازی"
 
 msgctxt "pref_storage_deleted_files_purge_delay_choices:0"
 msgid "1 day"
@@ -4980,7 +4980,7 @@ msgstr "اندازۀ فونت"
 
 msgctxt "editor_dialog_style_rectangle_line_width_magnification"
 msgid "Line width"
-msgstr ""
+msgstr "عرض خط"
 
 msgctxt "rectangle_area_prefix"
 msgid "A:"
@@ -5266,7 +5266,7 @@ msgstr "امپریال (1' 10 1/32\")"
 
 msgctxt "dimension_format_length_readonly_choices:2"
 msgid "fractional inches (1 1/32\")"
-msgstr ""
+msgstr "کسری اینچ (1 1/32\") "
 
 msgctxt "dimension_format_length_readonly_choices:3"
 msgid "imperial (1.00 ft)"
