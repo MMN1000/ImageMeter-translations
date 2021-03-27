@@ -172,7 +172,7 @@ msgstr "نیروی آپلود ابری"
 
 msgctxt "imageLibrary_menu_openDisplayOptions"
 msgid "Display options…"
-msgstr "گزینه های نمایش..."
+msgstr "گزینه‌های نمایش..."
 
 msgctxt "imageLibrary_menu_openImageNumberingOptions"
 msgid "Image numbering…"
@@ -197,7 +197,7 @@ msgstr "ریشه"
 
 msgctxt "imageLibrary_search_hint"
 msgid "Search images"
-msgstr "جستجوی عکس ها"
+msgstr "جستجوی عکس‌ها"
 
 msgctxt "imageLibrary_sortingOrder_alpha_ascending"
 msgid "Alphabetical"
@@ -209,11 +209,11 @@ msgstr "حروف الفبا ، معکوس کردن"
 
 msgctxt "imageLibrary_sortingOrder_time_ascending"
 msgid "Time, earliest on top"
-msgstr "زمان ، اولین بار در بالا"
+msgstr "زمان ، اولین در بالا"
 
 msgctxt "imageLibrary_sortingOrder_time_descending"
 msgid "Time, latest on top"
-msgstr "زمان ، آخرین در بالای صفحه"
+msgstr "زمان ، آخرین در بالا"
 
 msgctxt "imageLibrary_sortingOrder_number_ascending"
 msgid "Number, ascending"
@@ -239,7 +239,7 @@ msgstr "ارتقاء..."
 
 msgctxt "navigationDrawer_importImagesFromFreeApp"
 msgid "Import images from free app"
-msgstr "وارد کردن عکس ها از برنامۀ رایگان"
+msgstr "وارد کردن عکس‌ها از برنامۀ رایگان"
 
 #, fuzzy
 msgctxt "navigationDrawer_aboutApp"
@@ -273,7 +273,7 @@ msgstr "نسخه: %1$s"
 #. dialog: numbering
 msgctxt "imageLibrary_numberingDialog_title"
 msgid "Image numbers"
-msgstr "شماره های عکس"
+msgstr "شماره‌های عکس"
 
 msgctxt "imageLibrary_numberingDialog_enableAutoNumbering"
 msgid "Enable auto-numbering"
@@ -289,7 +289,7 @@ msgstr "افزایش"
 
 msgctxt "imageLibrary_numberingDialog_renumbering_sectionTitle"
 msgid "Renumber existing images"
-msgstr "شماره گذاری مجدد عکس ها موجود"
+msgstr "شماره گذاری مجدد عکس‌ها موجود"
 
 msgctxt "imageLibrary_numberingDialog_renumbering_keepOldNumberOrder"
 msgid "Keep order of old numbers"
@@ -301,24 +301,24 @@ msgstr "شماره گذاری مجدد"
 
 msgctxt "imageLibrary_numberingDialog_renumbering_removeAllNumbers"
 msgid "Remove numbers"
-msgstr "برداشتن شماره ها"
+msgstr "برداشتن شماره‌ها"
 
 #. dialog: display options
 msgctxt "imageLibrary_displayOptionsDialog_title"
 msgid "Display options"
-msgstr "گزینه های نمایش"
+msgstr "گزینه‌های نمایش"
 
 msgctxt "imageLibrary_displayOptionsDialog_showDeletedImages"
 msgid "Show deleted images"
-msgstr "نمایش عکس های حذف شده"
+msgstr "نمایش عکس‌های حذف شده"
 
 msgctxt "imageLibrary_displayOptionsDialog_showImageNumbers"
 msgid "Show image numbers"
-msgstr "نمایش شماره های عکس"
+msgstr "نمایش شماره‌های عکس"
 
 msgctxt "imageLibrary_displayOptionsDialog_imageListStyle_title"
 msgid "Show images as"
-msgstr "نمایش عکس ها به عنوان"
+msgstr "نمایش عکس‌ها به عنوان"
 
 msgctxt "imageLibrary_displayOptionsDialog_imageListStyle_list_large"
 msgid "Large list"
@@ -390,11 +390,11 @@ msgstr "یادداشت"
 #. dialog: clipboard paste
 msgctxt "imageLibrary_clipboardPasteDialog_title"
 msgid "Clipboard paste options"
-msgstr "گزینه های جایگزاری کلیپ بورد"
+msgstr "گزینه‌های جایگزاری کلیپ بورد"
 
 msgctxt "imageLibrary_clipboardPasteDialog_alsoCopyMeasurementValues"
 msgid "Copy measurements"
-msgstr "کپی اندازه گیری ها"
+msgstr "کپی اندازه گیری‌ها"
 
 msgctxt "imageLibrary_clipboardPasteDialog_centerAnnotationOnImage"
 msgid "Center on image"
@@ -431,7 +431,7 @@ msgstr "<a href=\"https://www.imagemeter.com/manual\">مستندات</a>"
 
 msgctxt "aboutApp_releaseNotes"
 msgid "<a href=\"release-notes\">Release notes</a>"
-msgstr "<a href=\"release-notes\">یادداشت های انتشار</a>"
+msgstr "<a href=\"release-notes\">یادداشت‌های انتشار</a>"
 
 msgctxt "aboutApp_contactLink"
 msgid "<a href=\"mailto:info@imagemeter.com\">Contact email</a>"
@@ -488,7 +488,7 @@ msgstr "ماه اول رایگان"
 
 msgctxt "upgradeDialog_purchaseButton_pro"
 msgid "Upgrade to Pro"
-msgstr "ارتقاء به حرفه ای"
+msgstr "ارتقاء به حرفه‌ای"
 
 msgctxt "upgradeDialog_purchaseButton_addon"
 msgid "Activate Addon"
@@ -496,7 +496,7 @@ msgstr "فعال کردن افزونه"
 
 msgctxt "upgradeDialog_purchaseButton_basic"
 msgid "Get Basic upgrade"
-msgstr "ارتقاء به پایه ای"
+msgstr "ارتقاء به پایه‌ای"
 
 msgctxt "upgradeDialog_purchaseButton_business"
 msgid "Upgrade to Business"
@@ -527,12 +527,12 @@ msgid ""
 "For more information about these features, &lt;a href=\"https://www.imagemeter.com/"
 "manual/license/android-licenses\"&gt;visit the website&lt;/a&gt;."
 msgstr ""
-"برای کسب اطلاعات بیشتر در مورد این ویژگی ها ، &lt;a href=\"https://www.imagemeter.com/"
+"برای کسب اطلاعات بیشتر در مورد این ویژگی‌ها ، &lt;a href=\"https://www.imagemeter.com/"
 "manual/license/android-licenses\"&gt;به وب سایت مراجعه کنید&lt;/a&gt;."
 
 msgctxt "upgradeDialog_addon_without_pro_title"
 msgid "Add-on without Pro upgrade?"
-msgstr "افزونه بدون ارتقاء به حرفه ای؟"
+msgstr "افزونه بدون ارتقاء به حرفه‌ای؟"
 
 #, fuzzy
 msgctxt "upgradeDialog_addon_without_pro_message"
@@ -541,9 +541,9 @@ msgid ""
 "possible, but probably not what you want. Note that the add-on does not include the "
 "Pro upgrade."
 msgstr ""
-"شما در حال تلاش برای نصب افزونه بدون داشتن نسخه حرفه ای هستید. این امر ممکن است ، اما "
-"احتمالاً همان چیزی نیست که شما می خواهید. توجه داشته باشید که این افزونه شامل نسخه "
-"حرفه ای نیست."
+"شما در حال تلاش برای نصب افزونه بدون داشتن نسخه حرفه‌ای هستید. این امر ممکن است ، اما "
+"احتمالاً همان چیزی نیست که شما می‌خواهید. توجه داشته باشید که این افزونه شامل نسخه "
+"حرفه‌ای نیست."
 
 msgctxt "upgradeDialog_addon_without_pro_confirm"
 msgid "Get the add-on"
@@ -555,7 +555,7 @@ msgstr "لغو"
 
 msgctxt "upgradeDialog_addon_without_pro_get_pro"
 msgid "Get Pro instead"
-msgstr "به جای آن حرفه ای را دریافت کنید"
+msgstr "به جای آن حرفه‌ای را دریافت کنید"
 
 msgctxt "upgradeDialog_addon_without_basic_title"
 msgid "Add-on without Basic upgrade?"
@@ -568,12 +568,12 @@ msgid ""
 "Basic upgrade."
 msgstr ""
 "شما در حال تلاش برای نصب افزونه بدون داشتن نسخه اصلی هستید. این امر ممکن است ، اما "
-"احتمالاً همان چیزی نیست که شما می خواهید. توجه داشته باشید که این افزونه شامل نسخه "
+"احتمالاً همان چیزی نیست که شما می‌خواهید. توجه داشته باشید که این افزونه شامل نسخه "
 "اصلی نیست."
 
 msgctxt "upgradeDialog_addon_without_basic_get_basic"
 msgid "Get Basic instead"
-msgstr "گرفتن بجای پایه ای"
+msgstr "گرفتن بجای پایه‌ای"
 
 #. specification of the add-ons and their feature items
 msgctxt "upgrade_addon_advancedAnnotation_purchaseBoxTitle"
@@ -586,19 +586,19 @@ msgstr "حاشیه نویسی پیشرفته"
 
 msgctxt "upgrade_addon_pro_purchaseBoxTitle"
 msgid "Pro"
-msgstr "حرفه ای"
+msgstr "حرفه‌ای"
 
 msgctxt "upgrade_addon_pro_addonName"
 msgid "Pro"
-msgstr "حرفه ای"
+msgstr "حرفه‌ای"
 
 msgctxt "upgrade_addon_basic_purchaseBoxTitle"
 msgid "Basic"
-msgstr "پایه ای"
+msgstr "پایه‌ای"
 
 msgctxt "upgrade_addon_basic_addonName"
 msgid "Basic"
-msgstr "پایه ای"
+msgstr "پایه‌ای"
 
 msgctxt "upgrade_addon_business_purchaseBoxTitle"
 msgid "Business"
@@ -622,7 +622,7 @@ msgstr "بلوتوث نامحدود"
 
 msgctxt "upgrade_item_draw_circles_etc"
 msgid "Draw and measure circles, rectangles, points"
-msgstr "کشیدن و اندازه گیری دایره ها ، مستطیل ، نقاط"
+msgstr "کشیدن و اندازه گیری دایره‌ها ، مستطیل ، نقاط"
 
 msgctxt "upgrade_item_perspective_length"
 msgid "Perspective length measurement tool"
@@ -630,19 +630,19 @@ msgstr "ابزار اندازه گیری طول چشم انداز"
 
 msgctxt "upgrade_item_subfolders"
 msgid "Subfolders"
-msgstr "زیر پوشه ها"
+msgstr "زیر پوشه‌ها"
 
 msgctxt "upgrade_item_audio_notes"
 msgid "Audio notes"
-msgstr "یادداشت های صوتی"
+msgstr "یادداشت‌های صوتی"
 
 msgctxt "upgrade_item_detail_pictures"
 msgid "Detail pictures"
-msgstr "جزئیات عکس ها"
+msgstr "جزئیات عکس‌ها"
 
 msgctxt "upgrade_item_measurement_string"
 msgid "Measurement strings"
-msgstr "رشته های اندازه گیری"
+msgstr "رشته‌های اندازه گیری"
 
 msgctxt "upgrade_item_pdf_import"
 msgid "PDF import"
@@ -650,11 +650,11 @@ msgstr "وارد کردن PDF"
 
 msgctxt "upgrade_item_cloud_access_from_office_pc"
 msgid "Access images from your office PC"
-msgstr "دسترسی به عکس ها از آفیس کامپیوتر شما"
+msgstr "دسترسی به عکس‌ها از آفیس کامپیوتر شما"
 
 msgctxt "upgrade_item_cloud_device_sync"
 msgid "Sync images between devices"
-msgstr "همگام سازی عکس ها بین دستگاه ها"
+msgstr "همگام سازی عکس‌ها بین دستگاه‌ها"
 
 msgctxt "upgrade_item_cloud_backup"
 msgid "Backup on your cloud storage"
@@ -666,12 +666,12 @@ msgid ""
 "&lt;a href=\"https://www.imagemeter.com/manual/templates/overview\"&gt;Export "
 "measurements as data tables&lt;/a&gt;."
 msgstr ""
-"&lt;a href=\"https://www.imagemeter.com/manual/templates/overview\"&gt;اندازه گیری ها "
+"&lt;a href=\"https://www.imagemeter.com/manual/templates/overview\"&gt;اندازه گیری‌ها "
 "را به عنوان جداول داده صادر کنید&lt;/a&gt;."
 
 msgctxt "upgrade_item_all_addon_packs"
 msgid "Includes Pro and all add-on packs"
-msgstr "شامل حرفه ای و تمام بسته های افزونه است"
+msgstr "شامل حرفه‌ای و تمام بسته‌های افزونه است"
 
 #. dialogs that explain why we need an upgrade
 #, c-format
@@ -682,22 +682,22 @@ msgstr "%1$s افزونه"
 #, c-format
 msgctxt "needUpgradeDialog_createSubfolders"
 msgid "Creating subfolders is included in the '%1$s' add-on."
-msgstr "ایجاد زیر پوشه ها در افزونه '%1$s' وجود دارد."
+msgstr "ایجاد زیر پوشه‌ها در افزونه '%1$s' وجود دارد."
 
 #, c-format
 msgctxt "needUpgradeDialog_moveFolders"
 msgid "Moving folders into other folders is included in the '%1$s' add-on."
-msgstr "انتقال پوشه ها به پوشه های دیگر در افزونه '%1$s' وجود دارد."
+msgstr "انتقال پوشه‌ها به پوشه‌های دیگر در افزونه '%1$s' وجود دارد."
 
 #, c-format
 msgctxt "needUpgradeDialog_audioNotes"
 msgid "Recording audio notes is included in the '%1$s' add-on."
-msgstr "ضبط یادداشت های صوتی در افزونه '%1$s' موجود است."
+msgstr "ضبط یادداشت‌های صوتی در افزونه '%1$s' موجود است."
 
 #, c-format
 msgctxt "needUpgradeDialog_detailImages"
 msgid "Adding detail images is included in the '%1$s' add-on."
-msgstr "افزودن عکس ها با جزئیات در افزونه '%1$s' موجود است."
+msgstr "افزودن عکس‌ها با جزئیات در افزونه '%1$s' موجود است."
 
 #, c-format
 msgctxt "needUpgradeDialog_pdfImport"
@@ -707,7 +707,7 @@ msgstr "وارد کردن PDF در افزونه '%1$s' موجود است."
 #, c-format
 msgctxt "needUpgradeDialog_text_tryWithExamples"
 msgid "You can try this function with the example images (in folder '%1$s')."
-msgstr "می توانید این عملکرد را با استفاده از عکس ها مثال (در پوشه '%1$s') امتحان کنید."
+msgstr "می‌توانید این عملکرد را با استفاده از عکس‌ها مثال (در پوشه '%1$s') امتحان کنید."
 
 #, c-format
 msgctxt "needUpgradeDialog_text_createAndtryWithExamples"
@@ -715,7 +715,7 @@ msgid ""
 "You can try this function with the example images (<a href=\"create\">create folder "
 "'%1$s'</a>)."
 msgstr ""
-"شما می توانید این عملکرد را با استفاده از عکس ها نمونه امتحان کنید(<a href=\"create"
+"شما می‌توانید این عملکرد را با استفاده از عکس‌ها نمونه امتحان کنید(<a href=\"create"
 "\">پوشه '%1$s' را ایجاد کنید</a>)"
 
 #, c-format
@@ -747,9 +747,9 @@ msgid ""
 "upgrades, add-on packs are only available in the free version. Please migrate to the "
 "free version. Your Pro upgrade will stay active."
 msgstr ""
-"از آنجایی که این نسخه حرفه ای بومی قرار است با نسخه رایگان با به روزرسانی های درون "
-"برنامه جایگزین شود ، بسته های الحاقی(افزونه ها) فقط در نسخه رایگان در دسترس هستند. "
-"لطفاً به نسخه رایگان مهاجرت کنید. ارتقاء حرفه ای شما فعال خواهد ماند."
+"از آنجایی که این نسخه حرفه‌ای بومی قرار است با نسخه رایگان با به روزرسانی‌های درون "
+"برنامه جایگزین شود ، بسته‌های الحاقی(افزونه‌ها) فقط در نسخه رایگان در دسترس هستند. "
+"لطفاً به نسخه رایگان مهاجرت کنید. ارتقاء حرفه‌ای شما فعال خواهد ماند."
 
 msgctxt "dialog_migrate_for_addon_packs_download_text"
 msgid "Download the free version from here:"
@@ -798,7 +798,7 @@ msgstr "صورتحساب در دسترس نیست."
 
 msgctxt "inapp_error_feature_not_supported"
 msgid "Feature is not supported."
-msgstr "ویژگی پشتیبانی نمی شود."
+msgstr "ویژگی پشتیبانی نمی‌شود."
 
 msgctxt "inapp_error_item_already_owned"
 msgid "Item is already owned."
@@ -814,7 +814,7 @@ msgstr "اتصال پلی استور به طور موقت قطع شد ، بعد�
 
 msgctxt "inapp_error_service_unavailable"
 msgid "Network down, cannot reach PlayStore."
-msgstr "شبکه قطع است ، نمی توانید به پلی استور دسترسی پیدا کنید."
+msgstr "شبکه قطع است ، نمی‌توانید به پلی استور دسترسی پیدا کنید."
 
 msgctxt "inapp_error_user_canceled"
 msgid "Purchase canceled by user."
@@ -851,7 +851,7 @@ msgstr "پرداخت ناموفق."
 
 msgctxt "inapp_error_cannot_query_owned_products"
 msgid "Cannot query for owned upgrades."
-msgstr "برای ارتقاء متعلق به خود نمی توانید درخواست کنید."
+msgstr "برای ارتقاء متعلق به خود نمی‌توانید درخواست کنید."
 
 #. TODO: these names should be a simple summary name for the "About App"
 #. dialog. But this does not work well with the          add-ons. Replace it
@@ -864,15 +864,15 @@ msgstr "ارزیابی رایگان"
 #, fuzzy
 msgctxt "upgrade_licenseName_pro"
 msgid "Pro"
-msgstr "حرفه ای"
+msgstr "حرفه‌ای"
 
 msgctxt "upgrade_licenseName_basic"
 msgid "Basic"
-msgstr "پایه ای"
+msgstr "پایه‌ای"
 
 msgctxt "upgrade_licenseName_business"
 msgid "Business"
-msgstr "تجارت"
+msgstr "تجارتی"
 
 msgctxt "upgrade_licenseName_addon_without_base_license"
 msgid "Add-on without base license"
@@ -888,7 +888,7 @@ msgstr "بومی"
 
 msgctxt "license_source_pro_key_app"
 msgid "Pro-key app"
-msgstr "کلید برنامه حرفه ای"
+msgstr "کلید برنامه حرفه‌ای"
 
 msgctxt "license_source_volume_key"
 msgid "Volume key"
@@ -903,10 +903,10 @@ msgid ""
 "that you have copied all the images from the Pro app to here as deleting the app will "
 "also delete all the images stored in it."
 msgstr ""
-"شما می توانید برنامه حرفه ای را جداگانه حذف نصب کنید. برای فعال کردن ویژگی های حرفه "
-"ای دیگر به عنوان یک کلید نیازی نیست زیرا شما افزونه هایی دارید که شامل ارتقاء حرفه ای "
-"هستند. مطمئن شوید که همه عکس ها را از برنامه حرفه ای به اینجا کپی کرده اید زیرا با "
-"حذف برنامه ، همه عکس ها ذخیره شده در آن نیز پاک می شود."
+"شما می‌توانید برنامه حرفه‌ای را جداگانه حذف نصب کنید. برای فعال کردن ویژگی‌های حرفه‌ای"
+" دیگر به عنوان یک کلید نیازی نیست زیرا شما افزونه‌هایی دارید که شامل ارتقاء حرفه‌ای "
+"هستند. مطمئن شوید که همه عکس‌ها را از برنامه حرفه‌ای به اینجا کپی کرده‌اید زیرا با "
+"حذف برنامه ، همه عکس‌ها ذخیره شده در آن نیز پاک می‌شود."
 
 msgctxt "main_screen_info_message_please_rate"
 msgid ""
@@ -932,11 +932,11 @@ msgid ""
 "To prevent this, use the cloud-sync function of the Business version or do a manual "
 "backup of your data."
 msgstr ""
-"به نظر می رسد در حال حاضر از عکس های شما پشتیبان تهیه نشده است. اگر تلفن شما خراب یا "
-"گم شود ، ممکن است عکس ها نیز از بین بروند.\n"
+"به نظر می‌رسد در حال حاضر از عکس‌های شما پشتیبان تهیه نشده است. اگر تلفن شما خراب یا "
+"گم شود ، ممکن است عکس‌ها نیز از بین بروند.\n"
 "\n"
 "برای جلوگیری از این امر ، از عملکرد همگام سازی ابری نسخه تجاری استفاده کنید یا از "
-"داده های خود پشتیبان گیری دستی کنید."
+"داده‌های خود پشتیبان گیری دستی کنید."
 
 msgctxt "main_screen_info_message_no_backup_do_not_warn_again"
 msgid "Don't warn again"
@@ -948,8 +948,8 @@ msgid ""
 "allow apps to access this directory anymore. Please move your data into the app "
 "directory."
 msgstr ""
-"عکس های شما در دایرکتوری عمومی 'اسناد' ذخیره می شوند. به زودی ، اندروید اجازه نخواهد "
-"داد که برنامه ها دیگر به این پوشه دسترسی داشته باشند. لطفاً داده های خود را به "
+"عکس‌های شما در دایرکتوری عمومی 'اسناد' ذخیره می‌شوند. به زودی ، اندروید اجازه نخواهد "
+"داد که برنامه ها دیگر به این پوشه دسترسی داشته باشند. لطفاً داده‌های خود را به "
 "دایرکتوری برنامه منتقل کنید."
 
 msgctxt "main_screen_info_message_deprecated_directory_settings"
@@ -959,7 +959,7 @@ msgstr "بازکردن تنظیمات"
 #. example images
 msgctxt "example_folder_name"
 msgid "Examples"
-msgstr "نمونه ها"
+msgstr "نمونه‌ها"
 
 msgctxt "tutorial_images_1"
 msgid "Example 1: Measure on a 2D floor plan"
@@ -997,7 +997,7 @@ msgstr "کپی"
 #. image import from free app
 msgctxt "snackbar_pro_to_free_migration"
 msgid "Pro-version app migration"
-msgstr "رفتن به نسخه حرفه ای برنامه"
+msgstr "رفتن به نسخه حرفه‌ای برنامه"
 
 msgctxt "snackbar_pro_to_free_migration_info"
 msgid "Info"
@@ -1009,7 +1009,7 @@ msgstr "https://www.imagemeter.com/manual/license/pro-version-migration"
 
 msgctxt "import_pro_app_data"
 msgid "Import images from Pro app"
-msgstr "وارد کردن عکس ها از برنامه حرفه ای"
+msgstr "وارد کردن عکس‌ها از برنامه حرفه‌ای"
 
 msgctxt "import_pro_app_data_started_text"
 msgid ""
@@ -1017,8 +1017,8 @@ msgid ""
 "that the images were copied correctly and delete them in the Pro app to save memory "
 "space."
 msgstr ""
-"وارد کردن در پس زمینه شروع به کار می کند. پس از اتمام کار ، لطفاً بررسی کنید که عکس ها "
-"به درستی کپی شده اند و آن ها را در برنامه حرفه ای حذف کنید تا فضای حافظه را ذخیره "
+"وارد کردن در پس زمینه شروع به کار می‌کند. پس از اتمام کار ، لطفاً بررسی کنید که عکس‌ها "
+"به درستی کپی شده‌اند و آن‌ها را در برنامه حرفه‌ای حذف کنید تا فضای حافظه را ذخیره "
 "کنید."
 
 msgctxt "import_pro_app_data_local_not_empty"
@@ -1026,8 +1026,8 @@ msgid ""
 "Warning: there are images in this app. Importing the images from the Pro app may "
 "overwrite images with the same name."
 msgstr ""
-"هشدار: عکس ها در این برنامه وجود دارد. وارد کردن عکس ها از برنامه حرفه ای ممکن است "
-"عکس های با همان نام را بازنویسی کند."
+"هشدار: عکس‌ها در این برنامه وجود دارد. وارد کردن عکس‌ها از برنامه حرفه‌ای ممکن است "
+"عکس‌های با همان نام را بازنویسی کند."
 
 msgctxt "import_pro_app_data_local_not_empty_anyway"
 msgid "Import anyway"
@@ -1035,16 +1035,16 @@ msgstr "به هر حال وارد كن"
 
 msgctxt "import_pro_app_data_title"
 msgid "Importing images from Pro app"
-msgstr "وارد کردن عکس ها از برنامه حرفه ای"
+msgstr "وارد کردن عکس‌ها از برنامه حرفه‌ای"
 
 msgctxt "import_pro_app_data_scan_progress_text"
 msgid "Please wait, searching for images to copy."
-msgstr "لطفاً منتظر بمانید ، در جستجوی عکس ها برای کپی کردن."
+msgstr "لطفاً منتظر بمانید ، در جستجوی عکس‌ها برای کپی کردن."
 
 #, c-format
 msgctxt "import_pro_app_data_progress_text"
 msgid "Please wait, %1$d images of %2$d done (%3$d errors)."
-msgstr "لطفاً صبر کنید ، %1$d عکس ها از %2$d انجام شده (%3$d خطاها)."
+msgstr "لطفاً صبر کنید ، %1$d عکس‌ها از %2$d انجام شده (%3$d خطاها)."
 
 msgctxt "import_pro_app_data_finished"
 msgid ""
@@ -1052,14 +1052,14 @@ msgid ""
 "imported correctly, you may want to delete the images in the Pro app to save memory "
 "space."
 msgstr ""
-"عکس ها از برنامه حرفه ای اکنون وارد می شوند. پس از بررسی اینکه عکس ها به درستی وارد "
-"شده اند ، ممکن است بخواهید تصاویر را در برنامه حرفه ای حذف کنید تا فضای حافظه را "
+"عکس‌ها از برنامه حرفه‌ای اکنون وارد می‌شوند. پس از بررسی اینکه عکس‌ها به درستی وارد "
+"شده‌اند ، ممکن است بخواهید تصاویر را در برنامه حرفه‌ای حذف کنید تا فضای حافظه را "
 "ذخیره کنید."
 
 msgctxt "import_pro_app_data_failed"
 msgid ""
 "Image import from Pro app has failed or is incomplete. Maybe your memory is full?"
-msgstr "وارد کردن عکس از برنامه حرفه ای انجام نشد یا ناقص است. شاید حافظه شما پر باشد؟"
+msgstr "وارد کردن عکس از برنامه حرفه‌ای انجام نشد یا ناقص است. شاید حافظه شما پر باشد؟"
 
 #. PDF import dialog
 msgctxt "pdf_import_page_selection_render_resolution"
@@ -1094,11 +1094,11 @@ msgstr "آرشیو ZIP"
 
 msgctxt "dialog_export_format_imi"
 msgid "Editable ImageMeter Image (IMI)"
-msgstr "تصویر سنجی عکس قابل ویرایش (IMI)"
+msgstr "ImageMeter عکس قابل ویرایش (IMI)"
 
 msgctxt "dialog_export_format_imf"
 msgid "ImageMeter folder (IMF)"
-msgstr "پوشه تصویر سنج (IMF)"
+msgstr "پوشه ImageMeter (IMF)"
 
 msgctxt "dialog_export_format_gallery"
 msgid "Save to gallery"
@@ -1115,7 +1115,7 @@ msgstr "تنظیمات پیش فرض صادر کردن عکس"
 
 msgctxt "dialog_image_export_use_default_options"
 msgid "Use default export options"
-msgstr "استفاده از گزینه های پیش فرض صادر کردن"
+msgstr "استفاده از گزینه‌های پیش فرض صادر کردن"
 
 msgctxt "dialog_image_export_image_format"
 msgid "Image format"
@@ -1127,7 +1127,7 @@ msgstr "فرمت فایل"
 
 msgctxt "dialog_image_export_overlays"
 msgid "Overlays"
-msgstr "پوشش ها"
+msgstr "پوشش‌ها"
 
 msgctxt "dialog_image_export_overlay_show_image_title"
 msgid "Show image title"
@@ -1147,7 +1147,7 @@ msgstr "کیفیت عکس"
 
 msgctxt "dialog_image_export_low_jpeg_image_quality"
 msgid "A quality of at least 80 is recommended."
-msgstr "حداقل کیفیت 80 توصیه می شود."
+msgstr "حداقل کیفیت 80 توصیه می‌شود."
 
 msgctxt "dialog_image_export_image_size"
 msgid "Image size"
@@ -1155,7 +1155,7 @@ msgstr "اندازه عکس"
 
 msgctxt "dialog_image_export_options_show_dialog"
 msgid "Show export options next time"
-msgstr "دفعه بعد گزینه های صادر کردن را نشان دهید"
+msgstr "دفعه بعد گزینه‌های صادر کردن را نشان دهید"
 
 #. PDF export
 msgctxt "dialog_pdf_export_paper"
@@ -1172,7 +1172,7 @@ msgstr "فراداده"
 
 msgctxt "dialog_pdf_export_space_for_notes"
 msgid "Space for image notes"
-msgstr "فضایی برای یادداشت های عکس"
+msgstr "فضایی برای یادداشت‌های عکس"
 
 msgctxt "dialog_pdf_export_print_table_of_content"
 msgid "Print table of content"
@@ -1180,7 +1180,7 @@ msgstr "چاپ جدول مطالب"
 
 msgctxt "dialog_pdf_export_print_folder_notes"
 msgid "Print folder notes"
-msgstr "چاپ یادداشت های پوشه"
+msgstr "چاپ یادداشت‌های پوشه"
 
 msgctxt "dialog_pdf_export_data_table"
 msgid "Data Table"
@@ -1196,7 +1196,7 @@ msgstr "عناوین ستون عمودی"
 
 msgctxt "dialog_pdf_options_show_dialog"
 msgid "Show PDF options next time"
-msgstr "دفعه بعد گزینه های PDF را نشان دهید"
+msgstr "دفعه بعد گزینه‌های PDF را نشان دهید"
 
 #. TODO
 msgctxt "pref_export_pdf_print_density"
@@ -1209,7 +1209,7 @@ msgstr "پیش فرض"
 
 msgctxt "dialog_pdf_options_image_notes_space_choices:0"
 msgid "Do not print notes"
-msgstr "یادداشت ها را چاپ نکنید"
+msgstr "یادداشت‌ها را چاپ نکنید"
 
 #, c-format
 msgctxt "dialog_pdf_options_image_notes_space_choices:1"
@@ -1240,7 +1240,7 @@ msgstr "50%"
 #, fuzzy
 msgctxt "image_export_to_gallery_in_background"
 msgid "Storing the images into your photo gallery..."
-msgstr "ذخیره عکس ها در گالری عکس شما ..."
+msgstr "ذخیره عکس‌ها در گالری عکس شما ..."
 
 #. PDF export progress notification
 msgctxt "pdf_export_notification_generating_pdf"
@@ -1267,7 +1267,7 @@ msgstr "صادر کردن ZIP"
 
 msgctxt "dialog_zip_options_show_dialog"
 msgid "Show ZIP options next time"
-msgstr "دفعه بعد گزینه های ZIP را نشان دهید"
+msgstr "دفعه بعد گزینه‌های ZIP را نشان دهید"
 
 #. ZIP export progress notification
 msgctxt "zip_export_notification_generating_title"
@@ -1386,7 +1386,7 @@ msgstr ""
 
 msgctxt "notification_duplicate_title"
 msgid "Duplicate images"
-msgstr "عکس های تکراری"
+msgstr "عکس‌های تکراری"
 
 #, fuzzy, c-format
 msgctxt "notification_duplicate_content"
@@ -1487,7 +1487,7 @@ msgstr "تنظیمات"
 
 msgctxt "pref_category_measures"
 msgid "Measures"
-msgstr "اندازه گیری ها"
+msgstr "اندازه گیری‌ها"
 
 msgctxt "pref_category_bluetooth"
 msgid "Bluetooth"
@@ -1511,7 +1511,7 @@ msgstr "ذخیره سازی"
 
 msgctxt "pref_category_templates"
 msgid "Templates and data tables"
-msgstr "قالب ها و جداول داده ها"
+msgstr "قالب ها و جداول داده‌ها"
 
 msgctxt "pref_category_information"
 msgid "Information"
@@ -1680,11 +1680,11 @@ msgstr "ساده کردن کسرها"
 
 msgctxt "pref_measure_reducefraction_summaryon"
 msgid "Fractions will be reduced (4/8 becomes 1/2)"
-msgstr "کسرها ساده خواهند شد (4/8 می شود 1/2)"
+msgstr "کسرها ساده خواهند شد (4/8 می‌شود 1/2)"
 
 msgctxt "pref_measure_reducefraction_summaryoff"
 msgid "Fractions will not be reduced (4/8 stays 4/8)"
-msgstr "کسرها ساده نخواهند شد (4/8 باقی می ماند 4/8)"
+msgstr "کسرها ساده نخواهند شد (4/8 باقی می‌ماند 4/8)"
 
 msgctxt "pref_measure_imperial_unit_display"
 msgid "Textual imperial units"
@@ -1696,7 +1696,7 @@ msgstr "واحدهای امپریال به صورت ft/in نمایش داده خ
 
 msgctxt "pref_measure_imperial_unit_display_summaryoff"
 msgid "Imperial units will be shown as '/\""
-msgstr "واحدهای امپریال نمایش داده می شوند به صورت '/\""
+msgstr "واحدهای امپریال نمایش داده می‌شوند به صورت '/\""
 
 msgctxt "pref_measure_label_shows_unit"
 msgid "Show units"
@@ -1704,7 +1704,7 @@ msgstr "نمایش واحدها"
 
 msgctxt "pref_measure_label_shows_unit_summaryon"
 msgid "Yes, show value and unit"
-msgstr "بله، نمایش مقدار و واحد"
+msgstr "بله ، نمایش مقدار و واحد"
 
 msgctxt "pref_measure_label_shows_unit_summaryoff"
 msgid "Show only the value, omit the unit"
@@ -1716,7 +1716,7 @@ msgstr "افزودن ابهامزدایی نقطه"
 
 msgctxt "pref_measure_label_disambiguation_dot_summaryon"
 msgid "Yes, if necessary"
-msgstr "بله، در صورت لزوم"
+msgstr "بله ، در صورت لزوم"
 
 msgctxt "pref_measure_label_disambiguation_dot_summaryoff"
 msgid "No"
@@ -1943,7 +1943,7 @@ msgstr "Ada Cosmo 120"
 
 msgctxt "pref_bluetooth_device_protocol_laserliner_compactpro"
 msgid "Laserliner Compact Pro"
-msgstr "لیزرلینر جمع و جور حرفه ای "
+msgstr "لیزرلینر جمع و جور حرفه‌ای "
 
 msgctxt "pref_bluetooth_device_protocol_toolsmart_anglefinder"
 msgid "ToolSmart-AngleFinder"
@@ -1999,7 +1999,7 @@ msgstr "استفاده از فرمت مقادیر دستگاه"
 
 msgctxt "pref_bluetooth_use_device_format_summaryon"
 msgid "Same value format (not available for all devices)"
-msgstr "فرمت مقادیر مشابه (برای همۀ دستگاه ها وجود ندارد)"
+msgstr "فرمت مقادیر مشابه (برای همۀ دستگاه‌ها وجود ندارد)"
 
 msgctxt "pref_bluetooth_use_device_format_summaryoff"
 msgid "Use format set in app preferences"
@@ -2015,8 +2015,8 @@ msgid ""
 "The trigger command will be sent twice. For some laser devices that only switch on "
 "the laser at the first command and perform the measurement at the second command."
 msgstr ""
-"فرمان ماشه دو بار ارسال خواهد شد. برای برخی از دستگاه های لیزر که فقط لیزر را در "
-"اولین فرمان تغییر می دهند و اندازه گیری را در فرمان دوم انجام می دهند."
+"فرمان ماشه دو بار ارسال خواهد شد. برای برخی از دستگاه‌های لیزر که فقط لیزر را در "
+"اولین فرمان تغییر می‌دهند و اندازه گیری را در فرمان دوم انجام می‌دهند."
 
 msgctxt "pref_bluetooth_remote_trigger_twice_summaryoff"
 msgid "The trigger command will be sent only once."
@@ -2142,7 +2142,7 @@ msgstr "%s"
 
 msgctxt "pref_editor_font_size_dialog"
 msgid "Font size for all annotations"
-msgstr "اندازۀ فونت برای همۀ یادداشت ها"
+msgstr "اندازۀ فونت برای همۀ یادداشت‌ها"
 
 msgctxt "pref_category_editor_snapping"
 msgid "Snapping"
@@ -2150,7 +2150,7 @@ msgstr "تکان خوردن"
 
 msgctxt "pref_editor_snapping_object_corners"
 msgid "Snap to object corners"
-msgstr "ضربه محکم و ناگهانی به گوشه های شی"
+msgstr "ضربه محکم و ناگهانی به گوشه‌های شی"
 
 msgctxt "pref_editor_snapping_object_outline"
 msgid "Snap to object outline"
@@ -2357,19 +2357,19 @@ msgstr "PDF"
 #. dialog_export_format_*
 msgctxt "pref_export_single_image_format_choices:2"
 msgid "Zip archive of images"
-msgstr "آرشیو ZIP از عکس ها"
+msgstr "آرشیو ZIP از عکس‌ها"
 
 #. TODO: instead of this string-array use the values from
 #. dialog_export_format_*
 msgctxt "pref_export_single_image_format_choices:3"
 msgid "ImageMeter image (IMI)"
-msgstr "عکس تصویر سنج (IMI)"
+msgstr "عکس ImageMeter (IMI)"
 
 #. TODO: instead of this string-array use the values from
 #. dialog_export_format_*
 msgctxt "pref_export_single_image_format_choices:4"
 msgid "ImageMeter folder (IMF)"
-msgstr "پوشه تصویر سنج (IMF)"
+msgstr "پوشه ImageMeter (IMF)"
 
 #. TODO: instead of this string-array use the values from
 #. dialog_export_format_*
@@ -2383,19 +2383,19 @@ msgstr "تنظیمات عکس"
 
 msgctxt "pref_export_image_show_options"
 msgid "Set options at export"
-msgstr "تنظیم گزینه های صادر کردن"
+msgstr "تنظیم گزینه‌های صادر کردن"
 
 msgctxt "pref_export_image_show_options_summary_on"
 msgid "Image options can be set at export"
-msgstr "گزینه های عکس را می توان هنگام صادر کردن تنظیم کرد"
+msgstr "گزینه‌های عکس را می‌توان هنگام صادر کردن تنظیم کرد"
 
 msgctxt "pref_export_image_show_options_summary_off"
 msgid "Options dialog will be skipped"
-msgstr "گزینه ها گفتگوی چشم پوشی خواهد شد"
+msgstr "گزینه‌ها گفتگوی چشم پوشی خواهد شد"
 
 msgctxt "pref_export_default_image_export_options"
 msgid "Default image export options…"
-msgstr "گزینه های پیش فرض صادر کردن عکس…"
+msgstr "گزینه‌های پیش فرض صادر کردن عکس…"
 
 msgctxt "pref_export_hardware_msaa"
 msgid "Hardware anti-aliasing"
@@ -2403,7 +2403,7 @@ msgstr "ضد-بدنمایی سخت افزاری"
 
 msgctxt "pref_export_hardware_msaa_summaryon"
 msgid "Enabled (some buggy GPUs may draw black images only)"
-msgstr "فعال (بعضی GPUهای باگ دار ممکن است فقط عکس های سیاه رسم کنند)"
+msgstr "فعال (بعضی GPUهای باگ دار ممکن است فقط عکس‌های سیاه رسم کنند)"
 
 msgctxt "pref_export_hardware_msaa_summaryoff"
 msgid "Disabled (lower output quality)"
@@ -2416,23 +2416,23 @@ msgstr "تنظیمات بایگانی ZIP"
 
 msgctxt "pref_export_zip_show_options"
 msgid "Set ZIP options at export"
-msgstr "تنظیم گزینه های ZIP هنگام صادر کردن"
+msgstr "تنظیم گزینه‌های ZIP هنگام صادر کردن"
 
 msgctxt "pref_export_zip_show_options_summary_on"
 msgid "ZIP options can be set at export"
-msgstr "گزینه های ZIP را می توان هنگام صادر کردن تنظیم کرد"
+msgstr "گزینه‌های ZIP را می‌توان هنگام صادر کردن تنظیم کرد"
 
 msgctxt "pref_export_zip_show_options_summary_off"
 msgid "ZIP options dialog will be skipped"
-msgstr "گفتگو گزینه های ZIP از بین می رود"
+msgstr "گفتگو گزینه‌های ZIP از بین می‌رود"
 
 msgctxt "pref_export_zip_include_annotated_image"
 msgid "Include annotated images"
-msgstr "شامل عکس های حاشیه نویسی"
+msgstr "شامل عکس‌های حاشیه نویسی"
 
 msgctxt "pref_export_zip_include_original_image"
 msgid "Include original images"
-msgstr "شامل عکس های اصلی"
+msgstr "شامل عکس‌های اصلی"
 
 msgctxt "pref_export_zip_include_csv"
 msgid "Include CSV file"
@@ -2494,23 +2494,23 @@ msgstr "تنظیمات PDF"
 
 msgctxt "pref_export_pdf_show_options"
 msgid "Set options at export"
-msgstr "گزینه های PDF را می توان هنگام صادر کردن تنظیم کرد"
+msgstr "گزینه‌های PDF را می‌توان هنگام صادر کردن تنظیم کرد"
 
 msgctxt "pref_export_pdf_show_options_summary_on"
 msgid "PDF options can be set at export"
-msgstr "گزینه های PDF را می توان هنگام صادر کردن تنظیم کرد"
+msgstr "گزینه‌های PDF را می‌توان هنگام صادر کردن تنظیم کرد"
 
 msgctxt "pref_export_pdf_show_options_summary_off"
 msgid "Options dialog will be skipped"
-msgstr "گزینه ها گفتگوی چشم پوشی خواهد شد"
+msgstr "گزینه‌ها گفتگوی چشم پوشی خواهد شد"
 
 msgctxt "pref_export_pdf_images_per_page"
 msgid "Images per PDF page"
-msgstr "عکس ها در هر صفحۀ PDF"
+msgstr "تعداد عکس‌ها در هر صفحۀ PDF"
 
 msgctxt "pref_export_pdf_images_per_page_dialog"
 msgid "Print how many images on each PDF page"
-msgstr "چاپ تعداد عکس ها در هر صفحۀ PDF"
+msgstr "چاپ تعداد عکس‌ها در هر صفحۀ PDF"
 
 msgctxt "pref_export_pdf_paper_orientation"
 msgid "PDF page orientation"
@@ -2558,19 +2558,19 @@ msgstr "مجاز"
 
 msgctxt "pref_export_pdf_may_rotate_images"
 msgid "Images in PDF may be rotated"
-msgstr "عکس ها در PDF ممکن است بچرخند"
+msgstr "عکس‌ها در PDF ممکن است بچرخند"
 
 msgctxt "pref_export_pdf_may_rotate_images_summaryon"
 msgid "Will rotate images if format fits better"
-msgstr "عکس ها چرخانده خواهند شد اگر بهتر جایگیری شوند"
+msgstr "عکس‌ها چرخانده خواهند شد اگر بهتر جایگیری شوند"
 
 msgctxt "pref_export_pdf_may_rotate_images_summaryoff"
 msgid "Images will never be rotated"
-msgstr "عکس ها هرگز چرخانده نخواهند شد"
+msgstr "عکس‌ها هرگز چرخانده نخواهند شد"
 
 msgctxt "pref_export_pdf_separate_landscape_portrait"
 msgid "Separate landscape/portrait in PDF"
-msgstr "جداگانه  بودن عمودی/افقی در PDF"
+msgstr "جداگانه بودن عمودی/افقی در PDF"
 
 msgctxt "pref_export_pdf_separate_landscape_portrait_dialog"
 msgid "When to separate landscape/portrait in PDF"
@@ -2582,7 +2582,7 @@ msgstr "هرگز"
 
 msgctxt "pref_export_pdf_separate_landscape_portrait_choices:1"
 msgid "If it does not increase page count"
-msgstr "اگر تعداد صفحه ها را افزایش نمی دهد"
+msgstr "اگر تعداد صفحه ها را افزایش نمی‌دهد"
 
 msgctxt "pref_export_pdf_separate_landscape_portrait_choices:2"
 msgid "Always"
@@ -2590,15 +2590,15 @@ msgstr "همیشه"
 
 msgctxt "pref_export_pdf_print_image_notes"
 msgid "Print image notes"
-msgstr "چاپ یادداشت های عکس"
+msgstr "چاپ یادداشت‌های عکس"
 
 msgctxt "pref_export_pdf_image_notes_space"
 msgid "Space reserved for image notes"
-msgstr "فضای ذخیره شده برای یادداشت های عکس"
+msgstr "فضای ذخیره شده برای یادداشت‌های عکس"
 
 msgctxt "pref_export_pdf_image_notes_space_dialog"
 msgid "Space reserved for image notes"
-msgstr "فضای ذخیره شده برای یادداشت های عکس"
+msgstr "فضای ذخیره شده برای یادداشت‌های عکس"
 
 #, c-format
 msgctxt "pref_export_pdf_image_notes_space_choices:0"
@@ -2627,7 +2627,7 @@ msgstr "10%"
 
 msgctxt "pref_export_pdf_print_folder_notes"
 msgid "Print folder notes"
-msgstr "چاپ یادداشت های پوشه"
+msgstr "چاپ یادداشت‌های پوشه"
 
 msgctxt "pref_export_pdf_print_folder_notes_summaryoff"
 msgid "No folder notes will be printed"
@@ -2635,7 +2635,7 @@ msgstr "هیچ یادداشت پوشه ای چاپ نخواهد شد"
 
 msgctxt "pref_export_pdf_print_folder_notes_summaryon"
 msgid "Page with folder notes and TOC will be printed"
-msgstr "صفحه ای با یادداشت های پوشه و TOC چاپ خواهد شد"
+msgstr "صفحه ای با یادداشت‌های پوشه و TOC چاپ خواهد شد"
 
 msgctxt "pref_category_export_general"
 msgid "General"
@@ -2651,11 +2651,11 @@ msgstr "ارائه دهنده نقشه"
 
 msgctxt "pref_export_general_map_link_provider_choices:0"
 msgid "Google Maps"
-msgstr "گوگل مپز"
+msgstr "نقشه گوگل"
 
 msgctxt "pref_export_general_map_link_provider_choices:1"
 msgid "Bing Maps"
-msgstr "نقشه های بینگ"
+msgstr "نقشه‌های بینگ"
 
 msgctxt "pref_export_general_map_link_provider_choices:2"
 msgid "OpenStreetMap"
@@ -2684,11 +2684,11 @@ msgstr "نام عکس (نزولی)"
 
 msgctxt "pref_ui_image_order_criterium_choices:2"
 msgid "Capture date (oldest first)"
-msgstr "تاریخ ضبط (قدیمی ترین اول)"
+msgstr "تاریخ ضبط (قدیمی‌ترین اول)"
 
 msgctxt "pref_ui_image_order_criterium_choices:3"
 msgid "Capture date (latest first)"
-msgstr "تاریخ ضبط (آخرین اولین)"
+msgstr "تاریخ ضبط (آخرین اول)"
 
 msgctxt "pref_ui_image_order_criterium_choices:4"
 msgid "Number (ascending)"
@@ -2745,15 +2745,15 @@ msgstr "دایرکتوری داده"
 
 msgctxt "pref_storage_show_images_in_gallery"
 msgid "Show images in gallery"
-msgstr "نمایش عکس ها در گالری"
+msgstr "نمایش عکس‌ها در گالری"
 
 msgctxt "pref_storage_show_images_in_gallery_on"
 msgid "Edited images will show up in gallery"
-msgstr "عکس ها ویرایش شده در گالری نمایش داده می شود"
+msgstr "عکس‌ها ویرایش شده در گالری نمایش داده می‌شود"
 
 msgctxt "pref_storage_show_images_in_gallery_off"
 msgid "Images will not show in the gallery automatically"
-msgstr "عکس ها به طور خودکار در گالری نشان داده نمی شوند"
+msgstr "عکس‌ها به طور خودکار در گالری نشان داده نمی‌شوند"
 
 msgctxt "pref_category_storage_cloud"
 msgid "Cloud storage"
@@ -2813,17 +2813,17 @@ msgid ""
 "Remove deleted images from server, but keep local images when they were deleted "
 "elsewhere."
 msgstr ""
-"عکس های حذف شده را از سرور حذف کنید ، اما وقتی عکس های محلی در جای دیگر حذف شدند ، آن "
+"عکس‌های حذف شده را از سرور حذف کنید ، اما وقتی عکس‌های محلی در جای دیگر حذف شدند ، آن "
 "ها را حفظ کنید."
 
 msgctxt "pref_storage_cloud_sync_twoway_mode_full_sync"
 msgid "Delete local images when they were deleted on any other device (BE CAREFUL)."
 msgstr ""
-"عکس های محلی را هنگامی که در هر دستگاه دیگری حذف شده اند حذف کنید (مراقب باشید)."
+"عکس‌های محلی را هنگامی که در هر دستگاه دیگری حذف شده‌اند حذف کنید (مراقب باشید)."
 
 msgctxt "pref_storage_cloud_sync_twoway_mode_backup"
 msgid "Never delete images from the server. You may get duplicates when moving images."
-msgstr "هرگز تصاویر را از سرور حذف نکنید.  هنگام جابجایی تصاویر ممکن است کپی بگیرید."
+msgstr "هرگز تصاویر را از سرور حذف نکنید. هنگام جابجایی تصاویر ممکن است کپی بگیرید."
 
 msgctxt "pref_storage_cloud_advanced_maintenance"
 msgid "Advanced maintenance"
@@ -2840,7 +2840,7 @@ msgstr "حالت هماهنگ سازی"
 
 msgctxt "pref_storage_cloud_sync_mode_choices:0"
 msgid "Share data"
-msgstr "اشتراک گذاری داده ها"
+msgstr "اشتراک گذاری داده‌ها"
 
 msgctxt "pref_storage_cloud_sync_mode_choices:1"
 msgid "Backup"
@@ -2873,11 +2873,11 @@ msgstr "حالت همگام سازی"
 
 msgctxt "pref_category_storage_deleted_files"
 msgid "Deleted files"
-msgstr "فایل های حذف شده"
+msgstr "فایل‌های حذف شده"
 
 msgctxt "pref_storage_deleted_files_purge_now"
 msgid "Purge all deleted images now!"
-msgstr "همه عکس ها حذف شده را اکنون پاکسازی کنید!"
+msgstr "همه عکس‌ها حذف شده را اکنون پاکسازی کنید!"
 
 msgctxt "pref_storage_deleted_files_purge_delay"
 msgid "Purge interval"
@@ -2901,11 +2901,11 @@ msgstr "1 ماه"
 
 msgctxt "dialog_purge_images_title"
 msgid "Purging deleted images"
-msgstr "پاکسازی کردن عکس ها حذف شده"
+msgstr "پاکسازی کردن عکس‌ها حذف شده"
 
 msgctxt "dialog_purge_images_finished"
 msgid "All deleted images have been purged from memory."
-msgstr "تمام عکس ها حذف شده از حافظه پاک شده اند."
+msgstr "تمام عکس‌ها حذف شده از حافظه پاک شده‌اند."
 
 #. Data directory
 msgctxt "pref_storage_directory_current_directory"
@@ -2914,11 +2914,11 @@ msgstr "دایرکتوری ذخیره سازی فعلی:"
 
 msgctxt "pref_storage_directory_alternative_directories"
 msgid "Alternative storage directories:"
-msgstr "دایرکتوری های ذخیره سازی جایگزین:"
+msgstr "دایرکتوری‌های ذخیره سازی جایگزین:"
 
 msgctxt "pref_storage_directory_move_data_to_new_directory"
 msgid "Move data to new directory"
-msgstr "انتقال داده ها به دایرکتوری جدید"
+msgstr "انتقال داده‌ها به دایرکتوری جدید"
 
 msgctxt "pref_storage_directory_activity_cancel"
 msgid "Cancel"
@@ -2930,15 +2930,15 @@ msgstr "تغییر دایرکتوری داده"
 
 msgctxt "pref_storage_directory_primary_app_data"
 msgid "Primary application data directory"
-msgstr "دایرکتوری اصلی داده های برنامه"
+msgstr "دایرکتوری اصلی داده‌های برنامه"
 
 msgctxt "pref_storage_directory_supplementary_app_data"
 msgid "Supplementary application data directory"
-msgstr "دایرکتوری داده های برنامه تکمیلی"
+msgstr "دایرکتوری داده‌های برنامه تکمیلی"
 
 msgctxt "pref_storage_directory_public_pictures"
 msgid "Public Pictures directory"
-msgstr "دایرکتوری عکس ها عمومی"
+msgstr "دایرکتوری عکس‌ها عمومی"
 
 msgctxt "pref_storage_directory_public_documents"
 msgid "Public Documents directory"
@@ -2970,15 +2970,15 @@ msgstr "حافظه:%1$d مگابایت رایگان ، فضای استفاده �
 
 msgctxt "pref_storage_directory_deletion_behavior_will_delete"
 msgid "Data will be deleted when app is uninstalled."
-msgstr "هنگامی که برنامه حذف شود ، داده ها نیز حذف می شوند."
+msgstr "هنگامی که برنامه حذف شود ، داده‌ها نیز حذف می‌شوند."
 
 msgctxt "pref_storage_directory_deletion_behavior_wont_delete"
 msgid "Data will stay on device when app is uninstalled."
-msgstr "هنگامی که برنامه حذف شود ، داده ها در دستگاه باقی می مانند."
+msgstr "هنگامی که برنامه حذف شود ، داده‌ها در دستگاه باقی می‌مانند."
 
 msgctxt "pref_storage_directory_deletion_behavior_unknown"
 msgid "Unknown whether data will be deleted during uninstall."
-msgstr "مشخص نیست که آیا داده ها هنگام حذف نصب حذف می شوند یا خیر."
+msgstr "مشخص نیست که آیا داده‌ها هنگام حذف نصب حذف می‌شوند یا خیر."
 
 msgctxt "pref_storage_directory_not_enough_free_space_title"
 msgid "Insufficient space"
@@ -2986,7 +2986,7 @@ msgstr "فضای ناکافی"
 
 msgctxt "pref_storage_directory_not_enough_free_space_message"
 msgid "There is not enough free memory on the target volume to move all images."
-msgstr "حافظه آزاد کافی بر روی حجم مورد نظر برای جابجایی همه عکس ها وجود ندارد."
+msgstr "حافظه آزاد کافی بر روی حجم مورد نظر برای جابجایی همه عکس‌ها وجود ندارد."
 
 msgctxt "pref_storage_directory_error_could_not_copy_all_images"
 msgid ""
@@ -2999,18 +2999,18 @@ msgid ""
 "Please note that the target directory now contains an incomplete copy of the source "
 "data!"
 msgstr ""
-"نمی توان تمام عکس ها را در دایرکتوری هدف کپی کرد. شاید نام پوشه شما نام فایل معتبر در "
-"سیستم فایل هدف نباشد. لطفاً آن ها را تغییر دهید و سپس سعی کنید داده های باقیمانده را "
+"نمی‌توان تمام عکس‌ها را در دایرکتوری هدف کپی کرد. شاید نام پوشه شما نام فایل معتبر در "
+"سیستم فایل هدف نباشد. لطفاً آن‌ها را تغییر دهید و سپس سعی کنید داده‌های باقیمانده را "
 "کپی کنید.\n"
 "\n"
 "دایرکتوری ذخیره سازی فعال تغییر نکرده است.\n"
 "\n"
-"لطفاً توجه داشته باشید که دایرکتوری هدف در حال حاضر شامل یک کپی ناقص از داده های منبع "
+"لطفاً توجه داشته باشید که دایرکتوری هدف در حال حاضر شامل یک کپی ناقص از داده‌های منبع "
 "است!"
 
 msgctxt "pref_storage_directory_cannot_move_files"
 msgid "Cannot move files"
-msgstr "نمی توان فایل ها را جابجا کرد"
+msgstr "نمی‌توان فایل‌ها را جابجا کرد"
 
 #, fuzzy
 msgctxt "dialog_storage_move_annotated_images_progress_text"
@@ -3061,7 +3061,7 @@ msgstr "Handwerkcloud"
 
 msgctxt "pref_cloud_storage_server_imagemeter_predefined"
 msgid "ImageMeter"
-msgstr "تصویر سنج"
+msgstr "ImageMeter"
 
 msgctxt "cloud_storage_provider_googledrive"
 msgid "Google Drive"
@@ -3085,9 +3085,9 @@ msgid ""
 "Hence, you can share images between devices when they use the same Google account, "
 "but not between devices using different accounts."
 msgstr ""
-"<b>توجه:</b> باطن گوگل درایو هنوز اجازه دسترسی به پوشه های مشترک را ندارد. از این "
-"رو ، می توانید تصاویر را هنگامی که دستگاه ها از یک حساب گوگل یکسان استفاده می کنند "
-"بین آن ها به اشتراک بگذارید ، اما نه بین دستگاه هایی که از حساب های مختلف استفاده می "
+"<b>توجه:</b> باطن گوگل درایو هنوز اجازه دسترسی به پوشه‌های مشترک را ندارد. از این "
+"رو ، می‌توانید تصاویر را هنگامی که دستگاه‌ها از یک حساب گوگل یکسان استفاده می‌کنند "
+"بین آن‌ها به اشتراک بگذارید ، اما نه بین دستگاه‌هایی که از حساب های مختلف استفاده می "
 "کنند."
 
 msgctxt "cloud_storage_server_note_dropbox"
@@ -3095,7 +3095,7 @@ msgid ""
 "The Dropbox backend also supports sharing your images with other Dropbox users. See "
 "the documentation at the link above how to set this up."
 msgstr ""
-"باطن دراپ باکس همچنین از اشتراک تصاویر شما با سایر کاربران دراپ باکس پشتیبانی می کند. "
+"باطن دراپ باکس همچنین از اشتراک تصاویر شما با سایر کاربران دراپ باکس پشتیبانی می‌کند. "
 "نحوه تنظیم این موارد را در پیوند بالا مشاهده کنید."
 
 msgctxt "cloud_storage_server_note_nextcloud"
@@ -3104,9 +3104,9 @@ msgid ""
 "can set-up your own users and shared folders. Information how to set-up a server can "
 "be found at the documentation link above."
 msgstr ""
-"این باطن به شما این امکان را می دهد تا از سرور ابری خصوصی و اختصاصی خود برای میزبانی "
-"عکس ها استفاده کنید. شما می توانید کاربران و پوشه های مشترک خود را تنظیم کنید. "
-"اطلاعات مربوط به راه اندازی سرور را می توانید در پیوند مستندات بالا پیدا کنید."
+"این باطن به شما این امکان را می‌دهد تا از سرور ابری خصوصی و اختصاصی خود برای میزبانی "
+"عکس‌ها استفاده کنید. شما می‌توانید کاربران و پوشه‌های مشترک خود را تنظیم کنید. "
+"اطلاعات مربوط به راه اندازی سرور را می‌توانید در پیوند مستندات بالا پیدا کنید."
 
 msgctxt "cloud_storage_server_note_handwerkcloud"
 msgid ""
@@ -3115,7 +3115,7 @@ msgid ""
 "subscription includes an ImageMeter Business license. For more information see the <a "
 "href=\"https://handwerkcloud.de\">Handwerkcloud website</a>."
 msgstr ""
-"سرویس HandwerkCloud نه تنها فضای ذخیره سازی برای عکس ها و اسناد شما را ارائه می دهد، "
+"سرویس HandwerkCloud نه تنها فضای ذخیره سازی برای عکس‌ها و اسناد شما را ارائه می‌دهد، "
 "بلکه یک مجموعه آفیس آنلاین و سایر برنامه های کاربردی را نیز در اختیار شما قرار می "
 "دهد. اشتراک HandwerkCloud شامل مجوز تجارت ImageMeter است. برای اطلاعات بیشتر، به <a "
 "href=\"https://handwerkcloud.de\"> وب سایت handwerkcloud مراجعه کنید."
@@ -3126,7 +3126,7 @@ msgid ""
 "The OneDrive backend might be suitable if you want easy access to your annotated "
 "images from your Windows PC."
 msgstr ""
-"اگر بخواهید به راحتی از طریق ویندوز رایانه به عکس ها حاشیه نویسی خود دسترسی پیدا "
+"اگر بخواهید به راحتی از طریق ویندوز رایانه به عکس‌ها حاشیه نویسی خود دسترسی پیدا "
 "کنید ، باطن وان درایو مناسب خواهد بود."
 
 msgctxt "cloud_storage_do_two_way_sync"
@@ -3135,11 +3135,11 @@ msgstr "همگام سازی دو طرفه را انجام دهید"
 
 msgctxt "cloud_storage_base_directory"
 msgid "Data directory:"
-msgstr "فهرست داده ها:"
+msgstr "فهرست داده‌ها:"
 
 msgctxt "cloud_storage_default_base_path"
 msgid "ImageMeter"
-msgstr "تصویر سنج"
+msgstr "ImageMeter"
 
 msgctxt "cloud_storage_two_way_info_title"
 msgid "Two-way sync"
@@ -3151,8 +3151,8 @@ msgid ""
 "on the cloud storage is for internal use only. Do not modify the data stored on the "
 "cloud server manually!"
 msgstr ""
-"همگام سازی دو طرفه برای تبادل داده ها بین چندین دستگاه است. داده هایی که در فضای "
-"ذخیره سازی ابری ذخیره می کند فقط برای استفاده داخلی است. داده های ذخیره شده در سرور "
+"همگام سازی دو طرفه برای تبادل داده‌ها بین چندین دستگاه است. داده‌هایی که در فضای "
+"ذخیره سازی ابری ذخیره می‌کند فقط برای استفاده داخلی است. داده‌های ذخیره شده در سرور "
 "ابری را به صورت دستی اصلاح نکنید!"
 
 msgctxt "cloud_storage_do_image_upload_sync"
@@ -3178,9 +3178,9 @@ msgid ""
 "This option cannot be used to exchange data between mobile devices. In fact, you "
 "should not sync to the same cloud image directory from several devices."
 msgstr ""
-"گزینه آپلود عکس ، عکس های اندازه گیری شده را در سرور ابری ذخیره می کند. اگر می خواهید "
-"از طریق آفیس رایانه شخصی خود به عکس ها خود دسترسی پیدا کنید ، این گزینه مناسب است.\n"
-" از این گزینه نمی توان برای تبادل داده ها بین دستگاه هایتلفن همراه استفاده کرد. در "
+"گزینه آپلود عکس ، عکس‌های اندازه گیری شده را در سرور ابری ذخیره می‌کند. اگر می‌خواهید "
+"از طریق آفیس رایانه شخصی خود به عکس‌ها خود دسترسی پیدا کنید ، این گزینه مناسب است.\n"
+" از این گزینه نمی‌توان برای تبادل داده‌ها بین دستگاه‌های تلفن همراه استفاده کرد. در "
 "واقع ، شما نباید با همان دایرکتوری عکس ابری از چندین دستگاه همگام سازی کنید."
 
 msgctxt "cloud_storage_account"
@@ -3249,13 +3249,13 @@ msgid ""
 " \n"
 "Note: templates are part of the <a href=\"upgrade-dialog\">Business version</a>."
 msgstr ""
-"الگوها به شما این امکان را می دهند کارهای استاندارد اندازه گیری را تعریف کنید. با "
-"اختصاص برچسب ها به اندازه گیری ها ، می توانید مجموعه داده های خود را ساختار دهید. شما "
-"همچنین می توانید طرح خروجی جدول اندازه گیری های خود را تعریف کنید. \n"
-"در این صفحه ، لیست الگوهای مربوط به وظایف اندازه گیری خود را پیدا می کنید.\n"
+"الگوها به شما این امکان را می‌دهند کارهای استاندارد اندازه گیری را تعریف کنید. با "
+"اختصاص برچسب‌ها به اندازه گیری‌ها ، می‌توانید مجموعه داده‌های خود را ساختار دهید. شما "
+"همچنین می‌توانید طرح خروجی جدول اندازه گیری‌های خود را تعریف کنید. \n"
+"در این صفحه ، لیست الگوهای مربوط به وظایف اندازه گیری خود را پیدا می‌کنید.\n"
 " \n"
-"برای اطلاعات بیشتر ، به  <a href=\"https://www.imagemeter.com/manual/templates/"
-"overview\">آموزش ها و کتابچه راهنما مراجعه کنید</a>.\n"
+"برای اطلاعات بیشتر ، به <a href=\"https://www.imagemeter.com/manual/templates/"
+"overview\">آموزش‌ها و کتابچه راهنما مراجعه کنید</a>.\n"
 " \n"
 "توجه: الگوها بخشی از <a href=\"upgrade-dialog\">نسخه تجاری هستند</a>."
 
@@ -3280,7 +3280,7 @@ msgctxt "pref_dialog_template_add_general_description"
 msgid ""
 "Choose the template that best matches your needs. You can further customize it later."
 msgstr ""
-"الگویی را انتخاب کنید که با نیازهای شما مطابقت داشته باشد. بعداً می توانید آن را "
+"الگویی را انتخاب کنید که با نیازهای شما مطابقت داشته باشد. بعداً می‌توانید آن را "
 "سفارشی کنید."
 
 msgctxt "pref_dialog_template_add_description_title"
@@ -3293,7 +3293,7 @@ msgid ""
 "Each image fills one row in the table. You may assign a tag to each measurement. Each "
 "table column contains the measurement for a specific tag."
 msgstr ""
-"هر عکس یک ردیف را در جدول پر می کند. شما می توانید یک برچسب را به هر اندازه گیری "
+"هر عکس یک ردیف را در جدول پر می‌کند. شما می‌توانید یک برچسب را به هر اندازه گیری "
 "اختصاص دهید. هر ستون جدول شامل اندازه گیری برای یک برچسب خاص است."
 
 #, fuzzy
@@ -3303,15 +3303,15 @@ msgid ""
 "to the sum (e.g. walls), while other elements are subtracted (e.g. windows)."
 msgstr ""
 "این الگو مبنای محاسبات سطح است. مساحت برخی از عناصر به مجموع (به عنوان مثال دیوارها) "
-"اضافه می شود ، در حالی که عناصر دیگر کم می شوند (به عنوان مثال پنجره ها)."
+"اضافه می‌شود ، در حالی که عناصر دیگر کم می‌شوند (به عنوان مثال پنجره‌ها)."
 
 msgctxt "pref_dialog_template_add_description_parts_list"
 msgid ""
 "This template lets you generate bills of material, counting different objects, or "
 "summing the length of products (e.g. electrical cables)."
 msgstr ""
-"این الگو به شما اجازه می دهد تا صورتحساب های مواد را تولید کنید، شمارش اشیاء مختلف یا "
-"جمع آوری طول محصولات (به عنوان مثال کابل برق) را می دهد."
+"این الگو به شما اجازه می‌دهد تا صورتحساب های مواد را تولید کنید، شمارش اشیاء مختلف یا "
+"جمع آوری طول محصولات (به عنوان مثال کابل برق) را می‌دهد."
 
 #, fuzzy
 msgctxt "pref_template_config_custom_edit_tags_description"
@@ -3320,20 +3320,20 @@ msgid ""
 "may tell that the measured rectangle is a <em>window</em> or a <em>wall</em>. Further "
 "on, these tags can be used to sort these measurements into data tables."
 msgstr ""
-"<b>برچسب ها</b> برای تعیین هدف خود به اندازه گیری ها اختصاص داده می شوند. به عنوان "
+"<b>برچسب‌ها</b> برای تعیین هدف خود به اندازه گیری‌ها اختصاص داده می‌شوند. به عنوان "
 "مثال ، یک برچسب ممکن است نشان دهد که مستطیل اندازه گیری شده یک <em>پنجره</em> یا یک "
-"<em>دیوار</em> است. بعلاوه ، می توان از این برچسب ها برای مرتب سازی این اندازه گیری "
+"<em>دیوار</em> است. بعلاوه ، می‌توان از این برچسب‌ها برای مرتب سازی این اندازه گیری "
 "ها در جداول داده استفاده کرد."
 
 msgctxt "pref_template_config_custom_edit_tags"
 msgid "Edit element tags"
-msgstr "ویرایش برچسب های عنصر"
+msgstr "ویرایش برچسب‌های عنصر"
 
 #, fuzzy
 msgctxt "pref_template_config_custom_edit_tables_description"
 msgid "<b>Table layouts</b> define how to arrange your measurements into a data table."
 msgstr ""
-"<b>چیدمان جدول</b> نحوه چیدمان اندازه گیری های خود را در یک جدول داده قرار دهید."
+"<b>چیدمان جدول</b> نحوه چیدمان اندازه گیری‌های خود را در یک جدول داده قرار دهید."
 
 msgctxt "pref_template_config_custom_edit_tables"
 msgid "Edit table layouts"
@@ -3345,7 +3345,7 @@ msgstr "الگوی سفارشی"
 
 msgctxt "pref_template_config_custom_section_tags"
 msgid "Tags"
-msgstr "برچسب ها"
+msgstr "برچسب‌ها"
 
 msgctxt "pref_template_config_custom_add_tag"
 msgid "+ add tag"
@@ -3374,7 +3374,7 @@ msgid ""
 "You may define several different layouts how the measured data is arranged into data "
 "tables."
 msgstr ""
-"شما می توانید چندین چیدمان مختلف داده ها را در مورد چیدمان داده های اندازه گیری شده "
+"شما می‌توانید چندین چیدمان مختلف داده‌ها را در مورد چیدمان داده‌های اندازه گیری شده "
 "در جداول داده تعریف کنید."
 
 #, fuzzy
@@ -3447,7 +3447,7 @@ msgstr "نام جدول"
 
 msgctxt "pref_template_custom_table_columns"
 msgid "Table columns"
-msgstr "ستون های جدول"
+msgstr "ستون‌های جدول"
 
 msgctxt "pref_template_custom_table_columns_add"
 msgid "+ add column"
@@ -3472,8 +3472,8 @@ msgid ""
 "Specify the cell content in this column. This can be either a measurement value that "
 "you annotated with a tag, or image metadata (e.g. image name, capture date)."
 msgstr ""
-"محتوای سلول را در این ستون مشخص کنید. این می تواند یک مقدار اندازه گیری باشد که با "
-"برچسب حاشیه نویسی کرده اید یا فراداده عکس (به عنوان مثال نام عکس ، تاریخ ضبط)."
+"محتوای سلول را در این ستون مشخص کنید. این می‌تواند یک مقدار اندازه گیری باشد که با "
+"برچسب حاشیه نویسی کرده‌اید یا فراداده عکس (به عنوان مثال نام عکس ، تاریخ ضبط)."
 
 msgctxt "pref_template_custom_table_column_measure_info_title"
 msgid "Measure selection"
@@ -3485,8 +3485,8 @@ msgid ""
 "Here, you define which measurement of the tagged element to put into this column. E."
 "g. for a circle you can choose between its area, radius, circumference, …"
 msgstr ""
-"در اینجا ، شما تعیین می کنید که کدام عنصر برچسب خورده را در این ستون قرار دهید. به "
-"عنوان مثال برای یک دایره می توانید بین مساحت ، شعاع ، محیط آن را انتخاب کنید."
+"در اینجا ، شما تعیین می‌کنید که کدام عنصر برچسب خورده را در این ستون قرار دهید. به "
+"عنوان مثال برای یک دایره می‌توانید بین مساحت ، شعاع ، محیط آن را انتخاب کنید."
 
 msgctxt "pref_template_custom_table_column_multiplevalues_info_title"
 msgid "Multiple values per cell"
@@ -3499,19 +3499,19 @@ msgid ""
 "options instead of keeping all in one cell."
 msgstr ""
 "وقتی به چندین عنصر یک برچسب اختصاص داده شود ، چندین مقدار در یک سلول قرار می گیرند. "
-"در اینجا می توانید به جای نگه داشتن همه در یک سلول ، این مقادیر را جمع کنید ، میانگین "
-"آن ها یا گزینه های دیگر را انتخاب کنید."
+"در اینجا می‌توانید به جای نگه داشتن همه در یک سلول ، این مقادیر را جمع کنید ، میانگین "
+"آن‌ها یا گزینه‌های دیگر را انتخاب کنید."
 
 msgctxt "pref_template_custom_table_column_numColumns_info_title"
 msgid "Number of columns"
-msgstr "تعداد ستون ها"
+msgstr "تعداد ستون‌ها"
 
 msgctxt "pref_template_custom_table_column_numColumns_info_description"
 msgid ""
 "Creates this number of columns to fill in values with this tag. Use this when you "
 "have several measurements with the same tag in one image."
 msgstr ""
-"برای پر کردن مقادیر با این برچسب ، این تعداد ستون را ایجاد می کند. هنگامی که چندین "
+"برای پر کردن مقادیر با این برچسب ، این تعداد ستون را ایجاد می‌کند. هنگامی که چندین "
 "اندازه گیری با همان برچسب در یک عکس دارید ، از این استفاده کنید."
 
 msgctxt "pref_template_custom_table_column_footer_info_title"
@@ -3523,8 +3523,8 @@ msgid ""
 "What to place in the footer row of the table. Options include the sum of all values "
 "in the column, the maximum, the average, and other options."
 msgstr ""
-"چه چیزی را باید در ردیف پایین جدول قرار دهید. گزینه ها شامل مجموع مقادیر موجود در "
-"ستون ، حداکثر ، میانگین و سایر گزینه ها می  باشد."
+"چه چیزی را باید در ردیف پایین جدول قرار دهید. گزینه‌ها شامل مجموع مقادیر موجود در "
+"ستون ، حداکثر ، میانگین و سایر گزینه‌ها می باشد."
 
 #, fuzzy
 msgctxt "pref_template_custom_table_column_title"
@@ -3562,7 +3562,7 @@ msgstr "پیکربندی الگوی مجموع سطح"
 
 msgctxt "pref_template_areasum_tags_title"
 msgid "Area Sum Template Tags"
-msgstr "برچسب های الگوی مجموع سطح"
+msgstr "برچسب‌های الگوی مجموع سطح"
 
 msgctxt "pref_template_areasum_table_title"
 msgid "Area Sum Table Configuration"
@@ -3570,7 +3570,7 @@ msgstr "پیکربندی جدول جمع مساحت"
 
 msgctxt "pref_template_areasum_tag_subtract"
 msgid "Subtract from sum"
-msgstr "کم کردن  از مجموع "
+msgstr "کم کردن از مجموع "
 
 msgctxt "pref_template_areasum_tag_factor"
 msgid "Factor"
@@ -3610,7 +3610,7 @@ msgstr "مساحت محاسبه شده"
 
 msgctxt "pref_template_areasum_table_column_plus_minus_areas"
 msgid "+/- area columns"
-msgstr "+/- ستون های سطح"
+msgstr "+/- ستون‌های سطح"
 
 msgctxt "pref_template_areasum_table_column_image_area_sum"
 msgid "Image area sum"
@@ -3619,7 +3619,7 @@ msgstr "جمع سطح عکس"
 msgctxt "tpool_templ_areasum_table_column_description_item"
 msgid ""
 "The image number. The number will only be filled into the row with the image title."
-msgstr "شماره عکس. این شماره فقط در ردیف عنوان عکس پر می شود."
+msgstr "شماره عکس. این شماره فقط در ردیف عنوان عکس پر می‌شود."
 
 msgctxt "tpool_templ_areasum_table_column_description_description"
 msgid ""
@@ -3638,10 +3638,10 @@ msgid ""
 "\n"
 "Enter the two column headers separated by a semicolon."
 msgstr ""
-"عرض و ارتفاع دو ستونی هستند که اگر مساحت یک مستطیل باشد با طول های کناری پر می شوند. "
-"برای سایر اشکال ، ستون ها خالی می شوند. \n"
+"عرض و ارتفاع دو ستونی هستند که اگر مساحت یک مستطیل باشد با طول های کناری پر می‌شوند. "
+"برای سایر اشکال ، ستون‌ها خالی می‌شوند. \n"
 "\n"
-"دو سرصفحه ستون را که با یک علامت ویرگول از هم جدا شده اند وارد کنید."
+"دو سرصفحه ستون را که با یک علامت ویرگول از هم جدا شده‌اند وارد کنید."
 
 msgctxt "tpool_templ_areasum_table_column_description_measured_area"
 msgid "The raw, measured area without the factor or count applied."
@@ -3662,17 +3662,17 @@ msgid ""
 "\n"
 "Enter the two column headers separated by a semicolon."
 msgstr ""
-"دو ستون ایجاد می کند: یک ستون شامل تمام سطوحی که به مجموع اضافه می شوند ، و یک ستون "
-"شامل تمام قسمت هایی که از جمع کل کم می شوند. \n"
+"دو ستون ایجاد می‌کند: یک ستون شامل تمام سطوحی که به مجموع اضافه می‌شوند ، و یک ستون "
+"شامل تمام قسمت هایی که از جمع کل کم می‌شوند. \n"
 "\n"
-"دو سرصفحه ستون را که با یک علامت ویرگول از هم جدا شده اند وارد کنید."
+"دو سرصفحه ستون را که با یک علامت ویرگول از هم جدا شده‌اند وارد کنید."
 
 #, fuzzy
 msgctxt "tpool_templ_areasum_table_column_description_image_area_sum"
 msgid ""
 "Each row holds the area sum of the image. The footer row holds the total over all "
 "images."
-msgstr "هر ردیف مجموع مساحت عکس را نگه می دارد. ردیف پاورقی جمع کل عکس را نگه می دارد."
+msgstr "هر ردیف مجموع مساحت عکس را نگه می‌دارد. ردیف پاورقی جمع کل عکس را نگه می‌دارد."
 
 msgctxt "pref_template_partslist_template_title"
 msgid "Parts List Template Configuration"
@@ -3680,7 +3680,7 @@ msgstr "پیکربندی الگوی لیست قطعات"
 
 msgctxt "pref_template_partslist_tags_title"
 msgid "Parts List Template Tags"
-msgstr "برچسب های الگو لیست قطعات"
+msgstr "برچسب‌های الگو لیست قطعات"
 
 msgctxt "pref_template_partslist_table_title"
 msgid "Parts List Table Configuration"
@@ -3704,7 +3704,7 @@ msgstr "نام جدول"
 
 msgctxt "pref_template_partslist_section_column_config"
 msgid "Columns configuration"
-msgstr "پیکربندی ستون ها"
+msgstr "پیکربندی ستون‌ها"
 
 msgctxt "pref_template_partslist_column_item_number"
 msgid "Item number"
@@ -3716,7 +3716,7 @@ msgstr "هیچ"
 
 msgctxt "pref_template_partslist_column_item_number_choices_only_element"
 msgid "Only item numbers"
-msgstr "فقط شماره های آیتم"
+msgstr "فقط شماره‌های آیتم"
 
 msgctxt "pref_template_partslist_column_item_number_choices_only_image_in_image_row"
 msgid "Only image numbers, only in image row"
@@ -3724,15 +3724,15 @@ msgstr "فقط شمارهای عکس ، فقط در ردیف عکس"
 
 msgctxt "pref_template_partslist_column_item_number_choices_both_image_in_image_row"
 msgid "Both, but image numbers only in image row"
-msgstr "و ، اما شماره های عکس فقط در ردیف عکس است"
+msgstr "و ، اما شماره‌های عکس فقط در ردیف عکس است"
 
 msgctxt "pref_template_partslist_column_item_number_choices_both_all_rows"
 msgid "Image and item numbers in all rows"
-msgstr "شماره عکس و آیتم در همه ردیف ها"
+msgstr "شماره عکس و آیتم در همه ردیف‌ها"
 
 msgctxt "pref_template_partslist_column_item_number_choices_combines"
 msgid "Combine image and item numbers in one column"
-msgstr "ترکیب عکس و شماره های آیتم در یک ستون"
+msgstr "ترکیب عکس و شماره‌های آیتم در یک ستون"
 
 msgctxt "pref_template_partslist_column_tag_name"
 msgid "Tag name"
@@ -3748,15 +3748,15 @@ msgstr "تعداد"
 
 msgctxt "pref_template_partslist_column_items"
 msgid "Item columns"
-msgstr "ستون های آیتم"
+msgstr "ستون‌های آیتم"
 
 msgctxt "pref_template_partslist_column_items_choices_used_tags"
 msgid "Only for used tags"
-msgstr "فقط برای برچسب های استفاده شده"
+msgstr "فقط برای برچسب‌های استفاده شده"
 
 msgctxt "pref_template_partslist_column_items_choices_all_tags"
 msgid "For all tags"
-msgstr "برای همه برچسب ها"
+msgstr "برای همه برچسب‌ها"
 
 msgctxt "pref_template_partslist_column_use_custom_titles"
 msgid "Use custom column titles"
@@ -3764,11 +3764,11 @@ msgstr "استفاده از عناوین ستون سفارشی"
 
 msgctxt "pref_template_partslist_section_row_config"
 msgid "Rows configuration"
-msgstr "پیکربندی ردیف ها"
+msgstr "پیکربندی ردیف‌ها"
 
 msgctxt "pref_template_partslist_row_show_image_name"
 msgid "Show rows with image names"
-msgstr "نمایش ردیف ها با نام عکس"
+msgstr "نمایش ردیف‌ها با نام عکس"
 
 msgctxt "pref_template_partslist_item_numbering_for_each_image"
 msgid "Independent item numbering for each image"
@@ -3785,7 +3785,7 @@ msgstr "اشکال زدایی"
 
 msgctxt "pref_information_send_error_log"
 msgid "Send error log by email"
-msgstr "ارسال گزارش خطا با ایمی"
+msgstr "ارسال گزارش خطا با ایمیل"
 
 #, fuzzy
 msgctxt "pref_information_googleplay_purchases"
@@ -3806,7 +3806,7 @@ msgstr "گزارش AppGallery: هیچ خریدی برای حساب فعال ند
 
 msgctxt "pref_category_information_credits"
 msgid "Credits"
-msgstr ""
+msgstr "اعتبارات"
 
 msgctxt "pref_information_translator"
 msgid "."
@@ -3907,7 +3907,7 @@ msgstr "لغو همگام سازی"
 
 msgctxt "notification_cloud_cannot_remove_incomplete_upload_title"
 msgid "Cannot remove incomplete upload"
-msgstr "آپلود ناقص حذف نمی شود"
+msgstr "آپلود ناقص حذف نمی‌شود"
 
 msgctxt "sync_errors_activity_title"
 msgid "Cloud Synchronization Errors"
@@ -3958,10 +3958,10 @@ msgid ""
 "automatically after a few minutes, but you can also manually remove them immediately "
 "if you know for sure that it is an error."
 msgstr ""
-"<b>حذف قفل سرور</b> - به منظور جلوگیری از دسترسی همزمان به داده های موجود در سرور "
-"ابری ، در طی فرآیند همگام سازی قفل می شود. در صورت بروز برخی خطاها ، به عنوان مثال در "
-"خرابی های شبکه ، ممکن است سرور قفل شده است. قفل زمان بعد از چند دقیقه به طور خودکار "
-"انجام می شود ، اما اگر شما مطمئن هستید که این یک خطا است ، می توانید بلافاصله آن ها "
+"<b>حذف قفل سرور</b> - به منظور جلوگیری از دسترسی همزمان به داده‌های موجود در سرور "
+"ابری ، در طی فرآیند همگام سازی قفل می‌شود. در صورت بروز برخی خطاها ، به عنوان مثال در "
+"خرابی‌های شبکه ، ممکن است سرور قفل شده است. قفل زمان بعد از چند دقیقه به طور خودکار "
+"انجام می‌شود ، اما اگر شما مطمئن هستید که این یک خطا است ، می‌توانید بلافاصله آن‌ها "
 "را دستی حذف کنید."
 
 msgctxt "cloud_storage_maintenance_remove_server_lock_button"
@@ -3975,10 +3975,10 @@ msgid ""
 "cache. You may reset the server cache to run a full scan during the next sync. "
 "However, note that a full scan may take a long time if you have many images."
 msgstr ""
-"<b>بازنشانی حافظه پنهان سرور</b> - سرور ابری حافظه پنهانی عکس های ذخیره شده روی آن ها "
-"را حفظ می کند. اگر فایل ها را به صورت دستی در سرور حذف یا اضافه کنید ، این توسط حافظه "
-"پنهان دیده نمی شود. شما می توانید حافظه پنهان سرور را تنظیم کنید تا در هنگام همگام "
-"سازی بعدی اسکن کامل انجام شود. با این حال ، توجه داشته باشید که اگر عکس های زیادی "
+"<b>بازنشانی حافظه پنهان سرور</b> - سرور ابری حافظه پنهانی عکس‌های ذخیره شده روی آن‌ها "
+"را حفظ می‌کند. اگر فایل‌ها را به صورت دستی در سرور حذف یا اضافه کنید ، این توسط حافظه "
+"پنهان دیده نمی‌شود. شما می‌توانید حافظه پنهان سرور را تنظیم کنید تا در هنگام همگام "
+"سازی بعدی اسکن کامل انجام شود. با این حال ، توجه داشته باشید که اگر عکس‌های زیادی "
 "داشته باشید ، اسکن کامل ممکن است طولانی شود."
 
 msgctxt "cloud_storage_maintenance_reset_server_cache_button"
@@ -3992,9 +3992,9 @@ msgid ""
 "again from the server instead of being deleted on the server. There are few cases "
 "where resetting the stored sync state is needed."
 msgstr ""
-"<b>تنظیم مجدد حالت همگام سازی</b> - همگام سازی بعدی بدون تایید در مورد داده های هر "
-"طرف شروع نمی شود. این به این معنی است که به عنوان مثال ، عکس های محلی که پاک شده اند "
-"به جای اینکه در سرور حذف شوند ، دوباره از سرور دانلود می شوند. موارد کمی وجود دارد که "
+"<b>تنظیم مجدد حالت همگام سازی</b> - همگام سازی بعدی بدون تایید در مورد داده‌های هر "
+"طرف شروع نمی‌شود. این به این معنی است که به عنوان مثال ، عکس‌های محلی که پاک شده‌اند "
+"به جای اینکه در سرور حذف شوند ، دوباره از سرور دانلود می‌شوند. موارد کمی وجود دارد که "
 "به تنظیم مجدد حالت همگام سازی ذخیره شده نیاز باشد."
 
 msgctxt "cloud_storage_maintenance_reset_sync_state_button"
@@ -4039,7 +4039,7 @@ msgstr "حافظه پنهان سرور با موفقیت راه اندازی ش�
 
 msgctxt "cloud_storage_maintenance_reset_server_cache_error"
 msgid "Could not remove server cache file '{}'."
-msgstr "فایل کش سرور '{}' را نمی توان حذف کرد."
+msgstr "فایل کش سرور '{}' را نمی‌توان حذف کرد."
 
 msgctxt "cloud_storage_maintenance_reset_sync_state_notification_progress_text"
 msgid "Resetting sync state…"
@@ -4144,11 +4144,11 @@ msgstr "محاسبۀ مقدار"
 
 msgctxt "editor_menu_edit_element_to_front"
 msgid "Element to front"
-msgstr "عنصر به جلو"
+msgstr "عنصر در بالا"
 
 msgctxt "editor_menu_edit_element_to_back"
 msgid "Element to back"
-msgstr "عنصر به عقب"
+msgstr "عنصر در زیر"
 
 msgctxt "editor_menu_edit_detach"
 msgid "Enter value manually"
@@ -4256,7 +4256,7 @@ msgstr "لطفاً به مرکز دایره اشاره کرده و آن را ب�
 
 msgctxt "editor_hint_howto_draw_freehand"
 msgid "You are now drawing in freehand mode until you press the close button."
-msgstr "شما اکنون در حالت دست آزاد ترسیم می کنید تا زمانی که دکمۀ بستن را بفشارید."
+msgstr "شما اکنون در حالت دست آزاد ترسیم می‌کنید تا زمانی که دکمۀ بستن را بفشارید."
 
 msgctxt "editor_hint_howto_draw_point"
 msgid "Place the point with a simple click."
@@ -4293,13 +4293,13 @@ msgstr "لطفاً اولین رشته ابعاد را بکشید. برای تغ
 msgctxt "editor_hint_howto_attach_to_reference"
 msgid "Click on the measure you want to compute based on the selected reference."
 msgstr ""
-"بر روی اندازه گیری ای که می خواهید بر اساس مرجع انتخاب شده محاسبه گردد کلیک کنید."
+"بر روی اندازه گیری‌ای که می‌خواهید بر اساس مرجع انتخاب شده محاسبه گردد کلیک کنید."
 
 msgctxt "editor_hint_howto_attach_measure"
 msgid ""
 "Click on the reference based on which you want to calculate the selected measure."
 msgstr ""
-"بر روی مرجع بر اساس آنچه که می خواهید اندازه گیری انتخابی را محاسبه نمایید کلیک کنید."
+"بر روی مرجع بر اساس آنچه که می‌خواهید اندازه گیری انتخابی را محاسبه نمایید کلیک کنید."
 
 msgctxt "editor_help_why_no_measured_value"
 msgid ""
@@ -4318,7 +4318,7 @@ msgid ""
 "The value is not computed because the image contains two references. Please select "
 "'Compute value' from the menu and select which reference to use."
 msgstr ""
-"این مقدار محاسبه نمی شود ، زیرا عکس شامل دو مرجع است. لطفاً 'مقدار محاسبه' را از منو "
+"این مقدار محاسبه نمی‌شود ، زیرا عکس شامل دو مرجع است. لطفاً 'مقدار محاسبه' را از منو "
 "انتخاب کرده و انتخاب کنید که از کدام مرجع استفاده شود."
 
 msgctxt "editor_help_do_not_show_again"
@@ -4342,12 +4342,12 @@ msgstr "هیچ مرجعی برای محاسبه وجود ندارد."
 
 msgctxt "editor_message_element_has_been_attached_to_single_reference"
 msgid "Measure is computed based on the reference you provided."
-msgstr "اندازه گیری بر اساس مرجعی که فراهم کرده اید انجام می شود."
+msgstr "اندازه گیری بر اساس مرجعی که فراهم کرده‌اید انجام می‌شود."
 
 #. editor misc
 msgctxt "editor_dialog_tag_properties_title"
 msgid "Tags and properties"
-msgstr "برچسب ها و خواص"
+msgstr "برچسب‌ها و خواص"
 
 msgctxt "editor_dialog_save_corrupted_imm_file_message"
 msgid ""
@@ -4359,11 +4359,11 @@ msgid ""
 "want to overwrite the data (you will lose the elements that could not be read "
 "successfully)?"
 msgstr ""
-"اطلاعات عکس به طور موفقیت آمیز خوانده نشد. ImageMeter تلاش کرده تا آنجای ممکن اطلاعات "
-"را بارگذاری نماید، ولی یادداشت های عکس ممکن است کامل نبوده یا دارای خطا باشند.\n"
+"اطلاعات عکس به طور موفقیت آمیز خوانده نشد. ImageMeter تلاش کرده تا آنجای ممکن اطلاعات"
+" را بارگذاری نماید ، ولی یادداشت‌های عکس ممکن است کامل نبوده یا دارای خطا باشند.\n"
 "\n"
-"آیا می خواهید اطلاعات قدیمی را نگه دارید (تغییرات جدید ذخیره نخواهند شد)، یا می "
-"خواهید اطلاعات را بازنویسی کنید (شما عناصری را که به طور موفق خوانده نشدند از دست "
+"آیا می‌خواهید اطلاعات قدیمی را نگه دارید (تغییرات جدید ذخیره نخواهند شد) ، یا می‌خواهید "
+"اطلاعات را بازنویسی کنید (شما عناصری را که به طور موفق خوانده نشدند از دست "
 "خواهید داد)؟"
 
 msgctxt "editor_dialog_save_corrupted_imm_file_overwrite_button"
@@ -4632,8 +4632,8 @@ msgid ""
 "this to any reference that is suitable for your application, e.g. the size of a sheet "
 "of paper."
 msgstr ""
-"این دکمه ابعاد مرجع وارد شدۀ فعلی را به عنوان اندازۀ پیش فرض ذخیره می کند. زمان ایجاد "
-"یک مرجع جدید، این ابعاد به صورت اتوماتیک قرار داده می شوند. شما می توان این را به هر "
+"این دکمه ابعاد مرجع وارد شدۀ فعلی را به عنوان اندازۀ پیش فرض ذخیره می‌کند. زمان ایجاد "
+"یک مرجع جدید، این ابعاد به صورت اتوماتیک قرار داده می‌شوند. شما می‌توان این را به هر "
 "مرجعی که برای برنامۀ شما مناسب است قرار دهید، مثلا اندازۀ یک صفحۀ کاغذ."
 
 msgctxt "editor_dialog_style_rect_grid_subdivisions_choices:0"
@@ -4751,7 +4751,7 @@ msgstr "10"
 
 msgctxt "editor_dialog_style_flatref_label_mode"
 msgid "Display labels"
-msgstr "نمایش برچسب ها"
+msgstr "نمایش برچسب‌ها"
 
 msgctxt "editor_dialog_style_flatref_label_mode_choices:0"
 msgid "None"
@@ -4763,7 +4763,7 @@ msgstr "فقط طول کل"
 
 msgctxt "editor_dialog_style_flatref_label_mode_choices:2"
 msgid "All labels"
-msgstr "تمام برچسب ها"
+msgstr "تمام برچسب‌ها"
 
 msgctxt "editor_dialog_style_flatref_label_mode_choices:3"
 msgid "Every second label"
@@ -4953,11 +4953,11 @@ msgstr "حرکت معیارها"
 
 msgctxt "editor_dimstring_mode_toggle_segments"
 msgid "Toggle segments"
-msgstr "تغییر بخش ها"
+msgstr "تغییر بخش‌ها"
 
 msgctxt "editor_dimstring_mode_move_strings"
 msgid "Move strings"
-msgstr "حرکت رشته ها"
+msgstr "حرکت رشته‌ها"
 
 msgctxt "editor_dimstring_mode_set_values"
 msgid "Set values"
@@ -5375,7 +5375,7 @@ msgstr "یارد"
 
 msgctxt "value_entry_unit_section_automatic_measurement_options"
 msgid "Automatic measurement options"
-msgstr "گزینه های اندازه گیری خودکار"
+msgstr "گزینه‌های اندازه گیری خودکار"
 
 msgctxt "value_entry_metadata_prefix"
 msgid "Prefix"
@@ -5395,11 +5395,11 @@ msgstr "واحد"
 
 msgctxt "value_entry_dimension_format_reduce_fraction_choices:0"
 msgid "Reduce (4/8 becomes 1/2)"
-msgstr "کاهش (4/8 می شود 1/2)"
+msgstr "کاهش (4/8 می‌شود 1/2)"
 
 msgctxt "value_entry_dimension_format_reduce_fraction_choices:1"
 msgid "Keep (4/8 stays 4/8)"
-msgstr "نگه داشتن (4/8 باقی می ماند 4/8)"
+msgstr "نگه داشتن (4/8 باقی می‌ماند 4/8)"
 
 msgctxt "dimension_format_imperial_unit_display_choices:0"
 msgid "Show as '/\""
@@ -5419,7 +5419,7 @@ msgstr "واحد را نشان ندهید"
 
 msgctxt "value_entry_unit_disambiguation"
 msgid "Ambiguous numbers"
-msgstr "شماره های مبهم"
+msgstr "شماره‌های مبهم"
 
 msgctxt "value_entry_unit_disambiguation_choices:0"
 msgid "Keep"
@@ -5608,7 +5608,7 @@ msgid ""
 "For more help and a list of supported devices, see <a href=\"https://imagemeter.com/"
 "manual/bluetooth/connect/\">here</a>"
 msgstr ""
-"شما هنوز هیچ فاصله سنج لیزری بلوتوثی را تنظیم نکرده اید.ابتدا اطمینان حاصل کنید که "
+"شما هنوز هیچ فاصله سنج لیزری بلوتوثی را تنظیم نکرده‌اید. ابتدا اطمینان حاصل کنید که "
 "دستگاه شما در تنظیمات سیستم ذکر شده است. در صورت لزوم ، دستگاه را جفت کنید.\n"
 "ابتدا اطمینان حاصل کنید که دستگاه شما در تنظیمات سیستم ذکر شده است. در صورت لزوم ، "
 "دستگاه را جفت کنید. <a href=\"android-bluetooth\">تنظیمات بلوتوث اندروید را باز کنید</"
@@ -5617,14 +5617,14 @@ msgstr ""
 "پس از آن ، دستگاه خود را در تنظیمات ImageMeter انتخاب کنید: <a href=\"bluetooth-device"
 "\">تنظیمات دستگاه بلوتوث را باز کنید</a>\n"
 "\n"
-"برای راهنمایی بیشتر و لیستی از دستگاه های پشتیبانی شده ، اینجا را  <a href=\"https://"
+"برای راهنمایی بیشتر و لیستی از دستگاه‌های پشتیبانی شده ، اینجا را <a href=\"https://"
 "imagemeter.com/manual/bluetooth/connect/\">ببینید</a>"
 
 #. 151209
 #, c-format
 msgctxt "bluetooth_error_cannot_set_value"
 msgid "Cannot set received Bluetooth value: %1$s."
-msgstr "نمی توان مقدار دریافتی بلوتوث: %1$s را قرار داد."
+msgstr "نمی‌توان مقدار دریافتی بلوتوث: %1$s را قرار داد."
 
 msgctxt "bluetooth_error_cannot_set_value_no_active_element"
 msgid "no active element"
@@ -5632,7 +5632,7 @@ msgstr "بدون عنصر فعال"
 
 msgctxt "bluetooth_error_cannot_set_value_element_has_no_dimension"
 msgid "element does not support measurements"
-msgstr "عنصر از اندازه گیری پشتیبانی نمی کند"
+msgstr "عنصر از اندازه گیری پشتیبانی نمی‌کند"
 
 msgctxt "bluetooth_error_cannot_set_value_dimension_is_read_only"
 msgid "element value is read-only"
@@ -5665,7 +5665,7 @@ msgid ""
 "location) to scan for nearby Bluetooth devices. Please grant this permission when "
 "requested."
 msgstr ""
-"از اندروید 6، مجوز موقعیت سفت و سختی برای اسکن دستگاه های بلوتوث نزدیک لازم است. لطفاً "
+"از اندروید 6، مجوز موقعیت سفت و سختی برای اسکن دستگاه‌های بلوتوث نزدیک لازم است. لطفاً "
 "این مجوز را هر زمان که درخواست شد تأیید نمایید."
 
 msgctxt "bluetooth_le_scan_needs_location_title"
@@ -5684,7 +5684,7 @@ msgstr ""
 "\n"
 "لطفاً خدمات موقعیت مکانی را روشن کنید. \n"
 "\n"
-"پس از اسکن بلوتوث LE ، می توانید دوباره این مورد را خاموش کنید."
+"پس از اسکن بلوتوث LE ، می‌توانید دوباره این مورد را خاموش کنید."
 
 msgctxt "bluetooth_error_unknown"
 msgid "Unknown error"
@@ -5785,7 +5785,7 @@ msgstr "نام عکس"
 
 msgctxt "tpool_templ_custom_columncontent_image_notes"
 msgid "Image notes"
-msgstr "یادداشت های عکس"
+msgstr "یادداشت‌های عکس"
 
 msgctxt "tpool_templ_custom_columncontent_image_number"
 msgid "Image number"
@@ -6087,7 +6087,7 @@ msgstr "وارد کردن عکس"
 
 msgctxt "tpool_locked_by_pro_migration"
 msgid "pro migration"
-msgstr "مهاجرت حرفه ای"
+msgstr "مهاجرت حرفه‌ای"
 
 msgctxt "tpool_locked_by_delete_image"
 msgid "deleting image"
@@ -6095,7 +6095,7 @@ msgstr "حذف کردن عکس"
 
 msgctxt "tpool_locked_by_delete_entity"
 msgid "deleting entity"
-msgstr ""
+msgstr "حذف کردن نهاد"
 
 msgctxt "tpool_locked_by_dialog_image_name"
 msgid "image renaming dialog"
@@ -6111,7 +6111,7 @@ msgstr "تنظیم ریشه کتابخانه عکس"
 
 msgctxt "tpool_locked_by_undelete_entity"
 msgid "undeleting entity"
-msgstr ""
+msgstr "لغو کردن حذف نهاد"
 
 #. date strings
 msgctxt "month_names_short_1"
@@ -6214,7 +6214,7 @@ msgstr "دسامبر "
 #, c-format
 msgctxt "imagelibrary_cannot_delete_image_in_use"
 msgid "Cannot delete image '%1$s' because it is in use by the %2$s."
-msgstr "عکس '%1$s' را نمی توان حذف کرد زیرا توسط %2$s استفاده می شود."
+msgstr "عکس '%1$s' را نمی‌توان حذف کرد زیرا توسط %2$s استفاده می‌شود."
 
 msgctxt "imagelibrary_cannot_load_current_folder"
 msgid ""
@@ -6222,21 +6222,21 @@ msgid ""
 "\n"
 "Please open the settings and set a different storage directory."
 msgstr ""
-"پوشه فعلی بارگیری نمی شود.\n"
+"پوشه فعلی بارگیری نمی‌شود.\n"
 "\n"
 "لطفاً تنظیمات را باز کنید و یک دایرکتوری ذخیره سازی دیگر را تنظیم کنید."
 
 #, c-format
 msgctxt "imagelibrary_moving_images_to_app_directory"
 msgid "Moving images to app directory (%1$d of %2$d)."
-msgstr "انتقال عکس ها به دایرکتوری برنامه (%1$d از %2$d)."
+msgstr "انتقال عکس‌ها به دایرکتوری برنامه (%1$d از %2$d)."
 
 #, fuzzy, c-format
 msgctxt "editor_error_nonpro_gelement_limit_message"
 msgid ""
 "Please upgrade to the %1$s version of ImageMeter to use more than five annotations."
 msgstr ""
-"لطفاً به نسخۀ حرفه ای ImageMeter ارتقاء دهید تا از بیشتر از پنج یادداشت استفاده کنید."
+"لطفاً به نسخۀ حرفه‌ای ImageMeter ارتقاء دهید تا از بیشتر از پنج یادداشت استفاده کنید."
 
 #, fuzzy, c-format
 msgctxt "editor_error_nonpro_bluetooth_limit_message"
@@ -6244,13 +6244,13 @@ msgid ""
 "For Bluetooth measurements with more than 3 meters, please upgrade to the %1$s "
 "version."
 msgstr ""
-"برای اندازه گیری های بلوتوثی دارای بیش از 3 اندازه گیری، لطفاً به نسخۀ حرفه ای ارتقاء "
+"برای اندازه گیری‌های بلوتوثی دارای بیش از 3 اندازه گیری، لطفاً به نسخۀ حرفه‌ای ارتقاء "
 "دهید."
 
 #, fuzzy, c-format
 msgctxt "editor_error_nonpro_clipboard_message"
 msgid "For using the clipboard, please upgrade to the %1$s version."
-msgstr "برای استفاده از کلیپ بورد ، لطفاً به نسخه حرفه ای ارتقاء دهید."
+msgstr "برای استفاده از کلیپ بورد ، لطفاً به نسخه حرفه‌ای ارتقاء دهید."
 
 msgctxt "editor_dialog_upgrade_button_cancel"
 msgid "Later"
@@ -6266,9 +6266,9 @@ msgid ""
 "camera or your camera app does not respond to a capture request. You can still import "
 "images from the gallery or you can try to install an alternative camera app."
 msgstr ""
-"نمی توان برنامۀ خارجی را برای گرفتن عکس دوربین آغاز نمود. یا دستگاه دوربین ندارد یا "
-"دوربین شما به درخواست گرفتن عکس پاسخ نمی دهد. شما همچنان می توانید عکس های گالری را "
-"وارد نمایید یا می توانید یک برنامۀ جایگزین دوربین نصب کنید."
+"نمی‌توان برنامۀ خارجی را برای گرفتن عکس دوربین آغاز نمود. یا دستگاه دوربین ندارد یا "
+"دوربین شما به درخواست گرفتن عکس پاسخ نمی‌دهد. شما همچنان می‌توانید عکس‌های گالری را "
+"وارد نمایید یا می‌توانید یک برنامۀ جایگزین دوربین نصب کنید."
 
 msgctxt "imageselect_error_internal_toast"
 msgid ""
@@ -6284,7 +6284,7 @@ msgstr "هیچ برنامه ای در دستگاه وجود ندارد که ما
 
 msgctxt "imagelibrary_error_cannot_import_current_directory_is_not_valid"
 msgid "Cannot import image because the current directory is not valid."
-msgstr "نمی توان عکس را وارد کرد زیرا دایرکتوری فعلی معتبر نیست."
+msgstr "نمی‌توان عکس را وارد کرد زیرا دایرکتوری فعلی معتبر نیست."
 
 msgctxt "error_cannot_open_pdf"
 msgid "Cannot open link to PDF file"
@@ -6296,25 +6296,25 @@ msgstr "علت:"
 
 msgctxt "storage_error_external_storage_unavailable"
 msgid "External storage (SD card?) not present."
-msgstr "حافظۀ خارجی (کارت  SD؟) وجود ندارد."
+msgstr "حافظۀ خارجی (کارت SD؟) وجود ندارد."
 
 #, c-format
 msgctxt "error_cannot_open_browser_url"
 msgid "Cannot open web browser to show web page '%1$s'"
-msgstr "برای نمایش صفحه وب '%1$s' نمی توان مرورگر وب را باز کرد"
+msgstr "برای نمایش صفحه وب '%1$s' نمی‌توان مرورگر وب را باز کرد"
 
 #. filesystem errors
 msgctxt "error_cannot_delete_file"
 msgid "Cannot delete file '{}'."
-msgstr "فایل '{}' حذف نمی شود."
+msgstr "فایل '{}' حذف نمی‌شود."
 
 msgctxt "imerror_files_cannot_read_file"
 msgid "Cannot read file '{}'."
-msgstr "فایل '{}' را نمی توان خواند."
+msgstr "فایل '{}' را نمی‌توان خواند."
 
 msgctxt "imerror_files_cannot_write_file"
 msgid "Cannot write file '{}'."
-msgstr "نمی توان فایل '{}' را نوشت."
+msgstr "نمی‌توان فایل '{}' را نوشت."
 
 msgctxt "error_cannot_rename_file"
 msgid "Cannot rename file '{0}' to '{1}'."
@@ -6326,11 +6326,11 @@ msgstr "فایل وجود ندارد: \"{}\"."
 
 msgctxt "imerror_files_file_cannot_be_opened"
 msgid "Cannot open file \"{}\"."
-msgstr "فایل \"{}\" باز نمی شود."
+msgstr "فایل \"{}\" باز نمی‌شود."
 
 msgctxt "imerror_files_cannot_create_directory"
 msgid "Cannot create directory \"{}\"."
-msgstr "دایرکتوری \"{}\" ایجاد نمی شود."
+msgstr "دایرکتوری \"{}\" ایجاد نمی‌شود."
 
 msgctxt "imerror_files_directory_does_not_exist"
 msgid "Directory '{}' does not exist."
@@ -6338,19 +6338,19 @@ msgstr "دایرکتوری '{}' وجود ندارد."
 
 msgctxt "imageselect_error_cannot_rename_folder"
 msgid "Cannot rename folder '{0}' to '{1}'."
-msgstr "نمی توان پوشۀ '{0}' را به '{1}' تغییرنام داد."
+msgstr "نمی‌توان پوشۀ '{0}' را به '{1}' تغییرنام داد."
 
 msgctxt "imageselect_error_folder_cannot_delete"
 msgid "Cannot delete folder '{}'."
-msgstr "نمی توان پوشۀ '{}' را پاک کرد."
+msgstr "نمی‌توان پوشۀ '{}' را پاک کرد."
 
 msgctxt "imerror_files_cannot_read_directory"
 msgid "Cannot read directory '{}'."
-msgstr "نمی تواند دایرکتوری '{}' را بخواند."
+msgstr "نمی‌تواند دایرکتوری '{}' را بخواند."
 
 msgctxt "imerror_files_cannot_copy_directory"
 msgid "Cannot copy directory '{}'."
-msgstr "نمی توانید دایرکتوری '{}' را کپی کنید."
+msgstr "نمی‌توانید دایرکتوری '{}' را کپی کنید."
 
 msgctxt "imerror_files_errno"
 msgid "OS error: '{}'."
@@ -6358,16 +6358,16 @@ msgstr "خطا: '{}'."
 
 msgctxt "imerror_files_cannot_generate_unique_filename"
 msgid "Cannot generate unique filename: '{}'."
-msgstr "نام فایل منحصر به فرد ایجاد نمی شود: '{}'."
+msgstr "نام فایل منحصر به فرد ایجاد نمی‌شود: '{}'."
 
 msgctxt "error_files_locked"
 msgid "Files are currently in use."
-msgstr "فایل ها در حال حاضر در حال استفاده هستند."
+msgstr "فایل‌ها در حال حاضر در حال استفاده هستند."
 
 #. used in PrefsStorageDirectory
 msgctxt "imerror_cannot_lock_file_read"
 msgid "Cannot read file '{}' because it is currently being modified."
-msgstr "فایل '{}' را نمی توان خواند زیرا هم اکنون در حال اصلاح است."
+msgstr "فایل '{}' را نمی‌توان خواند زیرا هم اکنون در حال اصلاح است."
 
 msgctxt "imerror_cannot_lock_file_write"
 msgid "Cannot modify file '{}' because it is currently in use."
@@ -6380,20 +6380,20 @@ msgstr "هیچ دایرکتوری کتابخانه عکس تعریف نشده ا
 
 msgctxt "imerror_library_cannot_purge"
 msgid "Cannot purge deleted images."
-msgstr "پاکسازی کردن عکس های پاک شده امکان پذیر نیست."
+msgstr "پاکسازی کردن عکس‌های پاک شده امکان پذیر نیست."
 
 #. entity level errors
 msgctxt "imerror_projectfolder_cannot_create"
 msgid "Cannot create folder '{}'."
-msgstr "پوشه '{}' ایجاد نمی شود."
+msgstr "پوشه '{}' ایجاد نمی‌شود."
 
 msgctxt "imerror_projectfolder_cannot_write_ifd"
 msgid "Cannot write IFD file for folder '{}'."
-msgstr "نمی توان فایل IFD را برای پوشه '{}' نوشت."
+msgstr "نمی‌توان فایل IFD را برای پوشه '{}' نوشت."
 
 msgctxt "imerror_projectfolder_cannot_load_folder"
 msgid "Cannot load folder '{}'."
-msgstr "پوشه '{}' بارگیری نمی شود."
+msgstr "پوشه '{}' بارگیری نمی‌شود."
 
 msgctxt "imerror_projectfolder_multiple_ifd_files"
 msgid "More than one IFD file found."
@@ -6405,19 +6405,19 @@ msgstr "خطای تجزیه فایل IFD."
 
 msgctxt "imerror_databundle_cannot_load_data_bundle"
 msgid "Cannot load image '{}'."
-msgstr "عکس '{}' بارگیری نمی شود."
+msgstr "عکس '{}' بارگیری نمی‌شود."
 
 msgctxt "imerror_databundle_cannot_create"
 msgid "Cannot create new image '{}'."
-msgstr "عکس جدید '{}' ایجاد نمی شود."
+msgstr "عکس جدید '{}' ایجاد نمی‌شود."
 
 msgctxt "imerror_databundle_cannot_write_imm"
 msgid "Cannot write IMM file for image '{}'."
-msgstr "نمی توان فایل IMM را برای عکس '{}' نوشت."
+msgstr "نمی‌توان فایل IMM را برای عکس '{}' نوشت."
 
 msgctxt "imerror_databundle_cannot_delete"
 msgid "Cannot delete image '{}'."
-msgstr "عکس '{}' حذف نمی شود."
+msgstr "عکس '{}' حذف نمی‌شود."
 
 msgctxt "imerror_databundle_cannot_rename_folder"
 msgid "Cannot rename directory of image '{}'."
@@ -6429,7 +6429,7 @@ msgstr "بیش از یک فایل IMM ییدا شده است."
 
 msgctxt "imerror_databundle_cannot_open"
 msgid "Cannot open image \"{}\"."
-msgstr "عکس \"{}\" را باز نمی شود."
+msgstr "عکس \"{}\" را باز نمی‌شود."
 
 msgctxt "imerror_databundle_cannot_read_imm_file"
 msgid "Cannot read IMM file."
@@ -6445,7 +6445,7 @@ msgstr "خطای تجزیه فایل IMM ({})."
 
 msgctxt "imerror_entity_cannot_move"
 msgid "Cannot move '{}' to new directory."
-msgstr "نمی توان '{}' را به دایرکتوری جدید منتقل کرد."
+msgstr "نمی‌توان '{}' را به دایرکتوری جدید منتقل کرد."
 
 msgctxt "imerror_entity_numbering_invalid_number"
 msgid "Invalid number: '{}'."
@@ -6454,11 +6454,11 @@ msgstr "شماره نامعتبر: '{}'."
 #. logic level errors
 msgctxt "imerror_delete_logic_cannot_delete"
 msgid "Cannot delete folder '{}'."
-msgstr "پوشه '{}' حذف نمی شود."
+msgstr "پوشه '{}' حذف نمی‌شود."
 
 msgctxt "imerror_delete_logic_cannot_mark_as_deleted"
 msgid "Cannot mark folder '{}' as deleted."
-msgstr "پوشه '{}' را نمی توان به عنوان پاک شده علامت گذاری کرد."
+msgstr "پوشه '{}' را نمی‌توان به عنوان پاک شده علامت گذاری کرد."
 
 #. import/export errors
 msgctxt "imerror_unknown_file_format"
@@ -6467,7 +6467,7 @@ msgstr "فایل '{}' فرمت ناشناخته ای دارد."
 
 msgctxt "imerror_cannot_create_imi_file"
 msgid "Cannot create IMI file '{}'."
-msgstr "فایل IMI '{}' ایجاد نمی شود."
+msgstr "فایل IMI '{}' ایجاد نمی‌شود."
 
 msgctxt "imerror_cannot_export_image"
 msgid "Cannot export image '{}'."
@@ -6483,7 +6483,7 @@ msgstr "خطای تجزیه فایل IFD."
 
 msgctxt "imerror_imi_cannot_open"
 msgid "Cannot open IMI file '{}'."
-msgstr "فایل IMI '{}' باز نمی شود."
+msgstr "فایل IMI '{}' باز نمی‌شود."
 
 msgctxt "imerror_nlohmann_json_parse_error"
 msgid "Parse error '{}'"
@@ -6495,11 +6495,11 @@ msgstr "فایل ZIP \"{}\" خراب شده است."
 
 msgctxt "imerror_zip_error"
 msgid "ZIP error: {}"
-msgstr "خطای زیپ:"
+msgstr "خطای ZIP:"
 
 msgctxt "imerror_zip_read_error"
 msgid "Error reading ZIP file."
-msgstr "خطا در خواندن فایل زیپ."
+msgstr "خطا در خواندن فایل ZIP."
 
 msgctxt "imerror_corrupted_file_compression"
 msgid "File compression error."
@@ -6520,7 +6520,7 @@ msgstr "خطای Libharu: \"{}\""
 #. image reader/writer errors
 msgctxt "imerror_imagereader_cannot_read_image"
 msgid "Cannot read image file."
-msgstr "فایل عکس را نمی توان خواند"
+msgstr "فایل عکس را نمی‌توان خواند"
 
 msgctxt "imerror_imagereader_reader_error"
 msgid "Image reader error."
@@ -6540,7 +6540,7 @@ msgstr "خطای LibJPE: \"{}\"."
 
 msgctxt "imerror_cannot_read_texture"
 msgid "Cannot read texture '{}'."
-msgstr "نمی تواند بافت '{}' را بخواند."
+msgstr "نمی‌تواند بافت '{}' را بخواند."
 
 #. rendering errors
 msgctxt "imerror_cannot_render_image"
@@ -6565,11 +6565,11 @@ msgstr "خارج از حافظه."
 
 msgctxt "imerror_out_of_memory_with_size"
 msgid "Out of memory (cannot allocate {} bytes)."
-msgstr "خارج از حافظه (نمی تواند {} بایت تخصیص دهد)."
+msgstr "خارج از حافظه (نمی‌تواند {} بایت تخصیص دهد)."
 
 msgctxt "imerror_out_of_memory_with_size_mb"
 msgid "Out of memory (cannot allocate {} MB)."
-msgstr "خارج از حافظه (نمی تواند {} مگابایت تخصیص دهد)."
+msgstr "خارج از حافظه (نمی‌تواند {} مگابایت تخصیص دهد)."
 
 msgctxt "imerror_internal_error"
 msgid "Internal error: {}."
@@ -6579,39 +6579,39 @@ msgstr "خطای داخلی: {}."
 #. file.</string
 msgctxt "imerror_editcore_cannot_load_auxiliary_data"
 msgid "Cannot load auxiliary data."
-msgstr "داده های کمکی بارگیری نمی شود."
+msgstr "داده‌های کمکی بارگیری نمی‌شود."
 
 msgctxt "imerror_editcore_cannot_purge_unused_auxiliary_data"
 msgid "Cannot delete unused auxiliary data files."
-msgstr "نمی انید فایل های داده های کمکی استفاده نشده را حذف کنید."
+msgstr "نمی انید فایل‌های داده‌های کمکی استفاده نشده را حذف کنید."
 
 msgctxt "imerror_gtext_cannot_add_detail_image"
 msgid "Cannot add the detail image \"{}\"."
-msgstr "نمی توان جزئیات عکس \"{}\" را اضافه کرد."
+msgstr "نمی‌توان جزئیات عکس \"{}\" را اضافه کرد."
 
 msgctxt "imerror_gtext_cannot_add_audio_recording"
 msgid "Cannot add audio recording \"{}\"."
-msgstr "ضبط صدا \"{}\" را نمی توان اضافه کرد."
+msgstr "ضبط صدا \"{}\" را نمی‌توان اضافه کرد."
 
 msgctxt "imerror_editcore_cannot_read_background_image"
 msgid "Cannot read photo."
-msgstr "عکس را نمی تواند بخواند."
+msgstr "عکس را نمی‌تواند بخواند."
 
 msgctxt "imerror_imagesetting_cannot_load"
 msgid "Cannot load image settings."
-msgstr "تنظیمات عکس بارگیری نمی شود."
+msgstr "تنظیمات عکس بارگیری نمی‌شود."
 
 msgctxt "imerror_imagesetting_cannot_save"
 msgid "Cannot save image settings."
-msgstr "تنظیمات عکس ذخیره نمی شود."
+msgstr "تنظیمات عکس ذخیره نمی‌شود."
 
 msgctxt "imerror_app_preferences_cannot_set_data_root_directory"
 msgid "Cannot set the data root directory."
-msgstr "دایرکتوری ریشه داده را نمی توان تنظیم کرد."
+msgstr "دایرکتوری ریشه داده را نمی‌توان تنظیم کرد."
 
 msgctxt "imerror_app_preferences_cannot_create_data_root_directory"
 msgid "Cannot create the data root directory."
-msgstr "دایرکتوری ریشه داده ایجاد نمی شود."
+msgstr "دایرکتوری ریشه داده ایجاد نمی‌شود."
 
 msgctxt "imerror_app_preferences_no_root_defined"
 msgid "No data root directory defined."
@@ -6640,11 +6640,11 @@ msgstr "استثناء امنیتی هنگام دسترسی به URL '{}'."
 
 msgctxt "imerror_android_insert_image_into_gallery"
 msgid "Cannot insert image into gallery ({})."
-msgstr "نمی توان عکس را از گالری وارد کرد ({})."
+msgstr "نمی‌توان عکس را از گالری وارد کرد ({})."
 
 msgctxt "imerror_android_copy_image_data_into_gallery"
 msgid "Cannot copy image data into gallery (url='{}')."
-msgstr "نمی توان داده های عکس را در گالری کپی کرد (url='{}')."
+msgstr "نمی‌توان داده‌های عکس را در گالری کپی کرد (url='{}')."
 
 msgctxt "imerror_android_delete_old_image_from_gallery"
 msgid "Cannot delete old image from gallery (url='{}')."
@@ -6663,12 +6663,12 @@ msgid ""
 "The settings for cloud storage can be found in the 'Storage' section of the app "
 "settings (<a href=\"cloud-settings\">open settings</a>)."
 msgstr ""
-"شما هنوز فضای ذخیره سازی ابری را پیکربندی نکرده اید. \n"
-"از فضای ذخیره سازی ابری می توان برای همگام سازی عکس های خود به طور خودکار بین چندین "
-"دستگاه یا تهیه پشتیبان استفاده کرد. اسناد و مدارک دقیق تر در این مورد را می توان در "
+"شما هنوز فضای ذخیره سازی ابری را پیکربندی نکرده‌اید. \n"
+"از فضای ذخیره سازی ابری می‌توان برای همگام سازی عکس‌های خود به طور خودکار بین چندین "
+"دستگاه یا تهیه پشتیبان استفاده کرد. اسناد و مدارک دقیق تر در این مورد را می‌توان در "
 "<a href=\"https://imagemeter.com/manual/storage/cloud/\"> کتابچه راهنمای کاربر یافت.</"
 "a> \n"
-"تنظیمات مربوط به ذخیره سازی ابری را می توان در بخش 'ذخیره سازی' تنظیمات برنامه (<a "
+"تنظیمات مربوط به ذخیره سازی ابری را می‌توان در بخش 'ذخیره سازی' تنظیمات برنامه (<a "
 "href=\"cloud-settings\">باز کردن تنظیمات</a>) مشاهده کرد."
 
 msgctxt "cloud_storage_not_configured_syncing_inbox_in_bkg"
@@ -6700,7 +6700,7 @@ msgstr ""
 
 msgctxt "error_cloud_cannot_login_unknown"
 msgid "Cannot sign in to your cloud server account."
-msgstr "نمی توانید به حساب سرور ابری خود وارد شوید."
+msgstr "نمی‌توانید به حساب سرور ابری خود وارد شوید."
 
 msgctxt "error_cloud_cannot_login_unauthorized"
 msgid "Not authorized to sign in to your cloud server account."
@@ -6728,17 +6728,17 @@ msgstr "مهلت زمانی سرور ابری."
 
 msgctxt "error_cloud_cannot_login_basefolder_access"
 msgid "Cannot access data directory on cloud server."
-msgstr "دسترسی به دایرکتوری داده ها در سرور ابری امکان پذیر نیست."
+msgstr "دسترسی به دایرکتوری داده‌ها در سرور ابری امکان پذیر نیست."
 
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_file_already_exists"
 msgid "Cannot create file '%1$s' because it already exists."
-msgstr "فایل '%1$s' ایجاد نمی شود زیرا از قبل موجود است."
+msgstr "فایل '%1$s' ایجاد نمی‌شود زیرا از قبل موجود است."
 
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_file_folder_exists"
 msgid "Cannot create file '%1$s' because there is a folder with this name."
-msgstr "نمی توانید فایل '%1$s' ایجاد کنید زیرا یک پوشه با این نام وجود دارد."
+msgstr "نمی‌توانید فایل '%1$s' ایجاد کنید زیرا یک پوشه با این نام وجود دارد."
 
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_file_server_error"
@@ -6748,52 +6748,52 @@ msgstr "ایجاد فایل '%1$s' به دلیل خطای سرور امکان پ
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_folder"
 msgid "Cannot create folder '%1$s'."
-msgstr "پوشه '%1$s' ایجاد نمی شود."
+msgstr "پوشه '%1$s' ایجاد نمی‌شود."
 
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_folder_already_exists"
 msgid "Cannot create folder '%1$s' because it already exists."
-msgstr "پوشه '%1$s' ایجاد نمی شود زیرا از قبل موجود است."
+msgstr "پوشه '%1$s' ایجاد نمی‌شود زیرا از قبل موجود است."
 
 #, c-format
 msgctxt "error_cloud_cannot_create_remote_folder_file_exists"
 msgid "Cannot create folder '%1$s' because there is a file with this name."
-msgstr "پوشه '%1$s' ایجاد نمی شود زیرا یک فایل با این نام وجود دارد."
+msgstr "پوشه '%1$s' ایجاد نمی‌شود زیرا یک فایل با این نام وجود دارد."
 
 #, c-format
 msgctxt "error_cloud_cannot_download_file_download_error"
 msgid "Cannot download file '%1$s' from server."
-msgstr "فایل '%1$s' از سرور دانلود نمی شود."
+msgstr "فایل '%1$s' از سرور دانلود نمی‌شود."
 
 #, c-format
 msgctxt "error_cloud_cannot_download_file_local_write_error"
 msgid "Cannot write downloaded file '%1$s' to device."
-msgstr "نمی توانید فایل دانلود شده '%1$s' را در دستگاه بنویسید."
+msgstr "نمی‌توانید فایل دانلود شده '%1$s' را در دستگاه بنویسید."
 
 #, c-format
 msgctxt "error_cloud_cannot_get_remote_metadata"
 msgid "Cannot get metadata of file '%1$s' from server."
-msgstr "نمی توانید متادیتای فایل '%1$s' را از سرور دریافت کنید."
+msgstr "نمی‌توانید متادیتای فایل '%1$s' را از سرور دریافت کنید."
 
 #, c-format
 msgctxt "error_cloud_cannot_open_remote_file_does_not_exist"
 msgid "Cannot open file '%1$s' on server because it does not exist."
-msgstr "فایل '%1$s' روی سرور باز نمی شود زیرا موجود نیست."
+msgstr "فایل '%1$s' روی سرور باز نمی‌شود زیرا موجود نیست."
 
 #, c-format
 msgctxt "error_cloud_cannot_open_remote_file_is_folder"
 msgid "Cannot open file '%1$s' on server because it is a folder."
-msgstr "فایل '%1$s' روی سرور باز نمی شود زیرا این یک پوشه است."
+msgstr "فایل '%1$s' روی سرور باز نمی‌شود زیرا این یک پوشه است."
 
 #, c-format
 msgctxt "error_cloud_cannot_open_remote_folder_does_not_exist"
 msgid "Cannot open folder '%1$s' on server because it does not exist."
-msgstr "پوشه '%1$s' را نمی توان در سرور باز کرد زیرا این پوشه وجود ندارد."
+msgstr "پوشه '%1$s' را نمی‌توان در سرور باز کرد زیرا این پوشه وجود ندارد."
 
 #, c-format
 msgctxt "error_cloud_cannot_open_remote_folder_is_no_folder"
 msgid "Cannot open folder '%1$s' on server because it is not a folder."
-msgstr "پوشه '%1$s' را نمی توان در سرور باز کرد زیرا این یک پوشه نیست."
+msgstr "پوشه '%1$s' را نمی‌توان در سرور باز کرد زیرا این یک پوشه نیست."
 
 #, c-format
 msgctxt "error_cloud_cannot_rename_remote_file"
@@ -6808,17 +6808,17 @@ msgstr "تغییر نام پوشه از راه دور '%1$s' به نام جدی�
 #, c-format
 msgctxt "error_cloud_remote_databundle_incomplete"
 msgid "Cannot load image '%1$s' because remote file '%2$s' is missing."
-msgstr "نمی توان عکس '%1$s' را بارگیری کرد زیرا فایل از راه دور '%2$s' از دست رفته است."
+msgstr "نمی‌توان عکس '%1$s' را بارگیری کرد زیرا فایل از راه دور '%2$s' از دست رفته است."
 
 #, c-format
 msgctxt "error_cloud_cannot_sync_databundle"
 msgid "Cannot sync image '%1$s'."
-msgstr "عکس '%1$s' همگام سازی نمی شود."
+msgstr "عکس '%1$s' همگام سازی نمی‌شود."
 
 #, c-format
 msgctxt "error_cloud_cannot_sync_folder"
 msgid "Cannot sync folder '%1$s'."
-msgstr "پوشه '%1$s' همگام سازی نمی شود."
+msgstr "پوشه '%1$s' همگام سازی نمی‌شود."
 
 #, c-format
 msgctxt "error_cloud_cannot_delete_remote_file"
@@ -6828,21 +6828,21 @@ msgstr "فایل '%1$s' از راه دور قابل حذف نیست."
 #, c-format
 msgctxt "error_cloud_cannot_delete_remote_folder"
 msgid "Cannot delete remote folder '%1$s'."
-msgstr "پوشه  '%1$s' از راه دور قابل حذف نیست."
+msgstr "پوشه '%1$s' از راه دور قابل حذف نیست."
 
 #, c-format
 msgctxt "error_cloud_cannot_download_sync_server_cache_file"
 msgid "Cannot download server cache file '%1$s'."
-msgstr "فایل حافظه پنهان سرور '%1$s' دانلود نمی شود."
+msgstr "فایل حافظه پنهان سرور '%1$s' دانلود نمی‌شود."
 
 #, c-format
 msgctxt "error_cloud_cannot_upload_sync_server_cache_file"
 msgid "Cannot upload server cache file '%1$s'."
-msgstr "فایل حافظه پنهان سرور '%1$s' آپلود نمی شود."
+msgstr "فایل حافظه پنهان سرور '%1$s' آپلود نمی‌شود."
 
 msgctxt "error_cloud_cannot_scan_server_content"
 msgid "Cannot scan server content."
-msgstr "نمی توان محتوای سرور را اسکن کرد."
+msgstr "نمی‌توان محتوای سرور را اسکن کرد."
 
 msgctxt "error_cloud_cannot_sync_server_content"
 msgid "Cannot sync with server."
@@ -6856,16 +6856,16 @@ msgstr "تجزیه فایل همگام سازی '%1$s' امکان پذیر نی�
 #, c-format
 msgctxt "error_cloud_cannot_write_sync_state_file"
 msgid "Cannot write sync state file '%1$s'."
-msgstr "نمی توان فایل همگام سازی '%1$s' را نوشت."
+msgstr "نمی‌توان فایل همگام سازی '%1$s' را نوشت."
 
 #, c-format
 msgctxt "error_cloud_cannot_load_sync_state_file"
 msgid "Cannot load sync state file '%1$s'."
-msgstr "فایل همگام سازی '%1$s' باگیری نمی شود."
+msgstr "فایل همگام سازی '%1$s' باگیری نمی‌شود."
 
 msgctxt "error_cloud_cannot_lock_server"
 msgid "Cannot generate server lock file."
-msgstr "نمی توان فایل قفل سرور را ایجاد کرد."
+msgstr "نمی‌توان فایل قفل سرور را ایجاد کرد."
 
 msgctxt "error_cloud_server_error"
 msgid "Server error: {}"
@@ -6889,19 +6889,19 @@ msgstr "پوشه '{}' در سرور وجود ندارد"
 
 msgctxt "error_cloud_cannot_create_folder"
 msgid "Cannot create folder '{}' on server"
-msgstr "پوشه '{}' در سرور ایجاد نمی شود"
+msgstr "پوشه '{}' در سرور ایجاد نمی‌شود"
 
 msgctxt "error_cloud_cannot_create_folder_short"
 msgid "Cannot create folder on server"
-msgstr "پوشه در سرور ایجاد نمی شود"
+msgstr "پوشه در سرور ایجاد نمی‌شود"
 
 msgctxt "error_cloud_cannot_upload_file"
 msgid "Cannot upload file '{}' to server"
-msgstr "فایل '{}' در سرور آپلود نمی شود"
+msgstr "فایل '{}' در سرور آپلود نمی‌شود"
 
 msgctxt "error_cloud_cannot_upload_file_short"
 msgid "Cannot upload file to server"
-msgstr "فایل نمی تواند در سرور آپلود شود"
+msgstr "فایل نمی‌تواند در سرور آپلود شود"
 
 msgctxt "error_cloud_cannot_download_file"
 msgid "Cannot download file '{}' from server"
@@ -6913,11 +6913,11 @@ msgstr "دانلود فایل از سرور امکان پذیر نیست"
 
 msgctxt "error_cloud_cannot_download_folder"
 msgid "Cannot download folder '{}' from server"
-msgstr "پوشه '{}' از سرور دانلود نمی شود"
+msgstr "پوشه '{}' از سرور دانلود نمی‌شود"
 
 msgctxt "error_cloud_cannot_download_folder_short"
 msgid "Cannot download folder from server"
-msgstr "پوشه از سرور دانلود نمی شود"
+msgstr "پوشه از سرور دانلود نمی‌شود"
 
 msgctxt "error_cloud_cannot_rename_file"
 msgid "Cannot rename file '{}' on server"
@@ -6953,11 +6953,11 @@ msgstr "پاک کردن پوشه از سرور امکان پذیر نیست"
 
 msgctxt "error_cloud_cannot_list_folder_content"
 msgid "Cannot list content of server folder '{}'"
-msgstr "نمی توان محتوای پوشه سرور '{}' را لیست کرد"
+msgstr "نمی‌توان محتوای پوشه سرور '{}' را لیست کرد"
 
 msgctxt "error_cloud_cannot_list_folder_content_short"
 msgid "Cannot list content of server folder"
-msgstr "نمی توان محتوای پوشه سرور را لیست کرد"
+msgstr "نمی‌توان محتوای پوشه سرور را لیست کرد"
 
 msgctxt "error_cloud_is_not_a_folder"
 msgid "File '{}' is not a folder."
@@ -6965,7 +6965,7 @@ msgstr "فایل '{}' در پوشه نیست."
 
 msgctxt "error_cloud_handwerkcloud_cannot_delete_folder_non_imagemeter_files_present"
 msgid "Cannot delete folder because the file '{}' is not managed by ImageMeter."
-msgstr "پوشه را نمی توان حذف کرد زیرا فایل '{}' توسط imageMeter مدیریت نمی شود."
+msgstr "پوشه را نمی‌توان حذف کرد زیرا فایل '{}' توسط imageMeter مدیریت نمی‌شود."
 
 #. links
 msgctxt "release_notes_filename"
@@ -6981,15 +6981,15 @@ msgstr "http://www.imagemeter.com/manual"
 #. errors
 msgctxt "UNUSED_imageselect_error_cannot_edit_corrupted_image"
 msgid "The .imm file for this image is corrupted. You cannot edit the image."
-msgstr "فایل .imm برای این عکس خراب است. شما نمی توانید عکس را ویرایش کنید."
+msgstr "فایل .imm برای این عکس خراب است. شما نمی‌توانید عکس را ویرایش کنید."
 
 msgctxt "UNUSED_imageselect_error_cannot_rename_corrupted_image"
 msgid "The .imm file for this image is corrupted. You cannot rename the image."
-msgstr "فایل .imm برای این عکس خراب است. شما نمی توانید عکس را تغییرنام کنید."
+msgstr "فایل .imm برای این عکس خراب است. شما نمی‌توانید عکس را تغییرنام کنید."
 
 msgctxt "UNUSED_imageselect_error_cannot_export_corrupted_image"
 msgid "The images with the corrupted .imm files will not be exported."
-msgstr "عکس های با فایل های .imm خراب صادر نخواهند شد."
+msgstr "عکس‌های با فایل‌های .imm خراب صادر نخواهند شد."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_image_version_more_recent_open_editor_anyways"
@@ -7002,25 +7002,25 @@ msgid ""
 "Do you still want to open it?"
 msgstr ""
 "نسخۀ فایل این عکس (%1$d) جدیدتر از بیشترین نسخه ای است که توسط نسخۀ ImageMeter نصب "
-"شده (%2$d) پشتیبانی می شود. باز کردن فایل ممکن است باعث از دست رفتن اطلاعات یا "
-"یادداشت های اشتباه گردد. شما باید از نسخۀ جدید ImageMeter برای باز کردن این فایل "
+"شده (%2$d) پشتیبانی می‌شود. باز کردن فایل ممکن است باعث از دست رفتن اطلاعات یا "
+"یادداشت‌های اشتباه گردد. شما باید از نسخۀ جدید ImageMeter برای باز کردن این فایل "
 "استفاده نمایید.\n"
 "\n"
-"آیا همچنان می خواهید آن را باز کنید؟"
+"آیا همچنان می‌خواهید آن را باز کنید؟"
 
 msgctxt "UNUSED_imageselect_error_metadata_format_unknown"
 msgid "Image metadata file (.imm) cannot be read, because it's format is unknown."
-msgstr "فایل متادیتای عکس (.imm) نمی تواند خوانده شود، زیرا فرمت آن ناشناخته است."
+msgstr "فایل متادیتای عکس (.imm) نمی‌تواند خوانده شود، زیرا فرمت آن ناشناخته است."
 
 msgctxt "UNUSED_imageselect_error_cannot_modify_readonly_folder"
 msgid "This is an essential system folder, you cannot remove or rename it."
-msgstr "این یک پوشۀ سیستمی ضروری است، شما نمی توانید آن را پاک کرده یا تغییرنام دهید."
+msgstr "این یک پوشۀ سیستمی ضروری است، شما نمی‌توانید آن را پاک کرده یا تغییرنام دهید."
 
 msgctxt "UNUSED_imageselect_error_cannot_move_bundle_to_folder"
 msgid ""
 "Cannot move image to new folder (maybe an image with the same name already exists)."
 msgstr ""
-"نمی توان عکس را به پوشۀ جدید انتقال داد (شاید یک عکس با نام مشابه از قبل وجود دارد)."
+"نمی‌توان عکس را به پوشۀ جدید انتقال داد (شاید یک عکس با نام مشابه از قبل وجود دارد)."
 
 #, fuzzy
 msgctxt "UNUSED_imageselect_error_external_memory_unavailable"
@@ -7029,9 +7029,9 @@ msgid ""
 "device stores this data on an external SD card which is currently not available. If "
 "this is not the problem in your case, you may contact info@imagemeter.com."
 msgstr ""
-"حافظۀ خارجی (جایی که اطلاعات برنامۀ شما نگهداری می شود) در دسترس نیست. به احتمال "
-"زیاد، دستگاه شما این اطلاعات را بر روی یک حافظۀ اس دی خارجی نگهداری می کند که الان در "
-"دسترس نیست. اگر مشکل در مورد شما این نیست، شما می توانید با info@imagemeter.com تماس "
+"حافظۀ خارجی (جایی که اطلاعات برنامۀ شما نگهداری می‌شود) در دسترس نیست. به احتمال "
+"زیاد، دستگاه شما این اطلاعات را بر روی یک حافظۀ اس دی خارجی نگهداری می‌کند که الان در "
+"دسترس نیست. اگر مشکل در مورد شما این نیست، شما می‌توانید با info@imagemeter.com تماس "
 "بگیرید."
 
 #, c-format
@@ -7040,23 +7040,23 @@ msgid ""
 "Cannot create the folder '%1$s' within this directory: '%2$s'. Make sure the media (e."
 "g. SD-card) is mounted, this directory exists and is writable."
 msgstr ""
-"نمی توان پوشۀ '%1$s' را در این پوشه: '%2$s' ایجاد کرد. مطمئن شوید که مدیا (مثلا کارت "
+"نمی‌توان پوشۀ '%1$s' را در این پوشه: '%2$s' ایجاد کرد. مطمئن شوید که مدیا (مثلا کارت "
 "اس دی) بارگذاری شده ، این پوشه موجود بوده و قابل نوشتن است."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_cannot_access_external_data"
 msgid "Cannot access external data at location '%1$s'."
-msgstr "نمی توان به اطلاعات خارجی در محل '%1$s' دست یافت."
+msgstr "نمی‌توان به اطلاعات خارجی در محل '%1$s' دست یافت."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_cannot_create_existing_folder"
 msgid "Cannot create folder '%1$s' because it already exists."
-msgstr "نمی توان پوشۀ '%1$s' را ایجاد کرد زیرا از قبل موجود است."
+msgstr "نمی‌توان پوشۀ '%1$s' را ایجاد کرد زیرا از قبل موجود است."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_folder_rename_target_exists"
 msgid "Cannot rename folder to '%1$s' because that already exists."
-msgstr "نمی توان گوشه را به '%1$s' تغییرنام داد زیرا از قبل موجود است."
+msgstr "نمی‌توان گوشه را به '%1$s' تغییرنام داد زیرا از قبل موجود است."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_folder_does_not_exist_detailed"
@@ -7066,36 +7066,36 @@ msgstr "پوشۀ '%1$s' دیگر وجود ندارد (محل مورد انتظا
 #, c-format
 msgctxt "UNUSED_imageselect_error_cannot_write_data_bundle"
 msgid "Cannot write data for image '%1$s'."
-msgstr "نمی توان اطلاعات را برای عکس '%1$s' نوشت."
+msgstr "نمی‌توان اطلاعات را برای عکس '%1$s' نوشت."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_cannot_write_data_bundle_detailed"
 msgid "Cannot write data for image '%1$s' (at location '%2$s')."
-msgstr "نمی توان اطلاعات را برای عکس '%1$s' نوشت (در محل '%2$s')."
+msgstr "نمی‌توان اطلاعات را برای عکس '%1$s' نوشت (در محل '%2$s')."
 
 #, c-format
 msgctxt "UNUSED_imageselect_error_cannot_delete_data_bundle"
 msgid "Cannot delete image '%1$s'."
-msgstr "نمی توان عکس '%1$s' را پاک کرد."
+msgstr "نمی‌توان عکس '%1$s' را پاک کرد."
 
 msgctxt "UNUSED_imageselect_error_url_of_imported_file_not_found"
 msgid "Image to be imported cannot be found."
-msgstr "عکس برای وارد کردن نمی تواند یافت شود."
+msgstr "عکس برای وارد کردن نمی‌تواند یافت شود."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_save_annotated_image"
 msgid "Cannot save annotated image because: '%1$s'."
-msgstr "عکس حاشیه نویسی را نمی توان ذخیره کند زیرا: '%1$s'."
+msgstr "عکس حاشیه نویسی را نمی‌توان ذخیره کند زیرا: '%1$s'."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_save_thumbnail_image"
 msgid "Cannot save thumbnail image because: '%1$s'."
-msgstr "عکس بند انگشتی را نمی توان ذخیره کرد زیرا: '%1$s'."
+msgstr "عکس بند انگشتی را نمی‌توان ذخیره کرد زیرا: '%1$s'."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_access_files_in_folder"
 msgid "Cannot access files in folder '%1$s'."
-msgstr "دسترسی به فایل های موجود در پوشه '%1$s' امکان پذیر نیست."
+msgstr "دسترسی به فایل‌های موجود در پوشه '%1$s' امکان پذیر نیست."
 
 #, c-format
 msgctxt "UNUSED_error_target_folder_contains_bundle_with_same_id"
@@ -7108,17 +7108,17 @@ msgstr "حافظۀ خارجی فقط-خواندنی است."
 
 msgctxt "UNUSED_storage_error_external_storage_could_not_write_file"
 msgid "Could not write file to external memory."
-msgstr "نمی توان فایل را در حافظۀ خارجی نوشت."
+msgstr "نمی‌توان فایل را در حافظۀ خارجی نوشت."
 
 msgctxt "UNUSED_storage_error_external_storage_could_not_get_permission_to_write_images"
 msgid ""
 "Could not get permission to write to external storage. No files have been written."
-msgstr "نمی توان مجوز نوشتن روی حافظۀ خارجی را گرفت. هیچ فایلی نوشته نشده است."
+msgstr "نمی‌توان مجوز نوشتن روی حافظۀ خارجی را گرفت. هیچ فایلی نوشته نشده است."
 
 #, c-format
 msgctxt "UNUSED_storage_error_cannot_create_directory_on_external_storage"
 msgid "Could not create directory '%1$s' on external storage."
-msgstr "نمی توان پوشۀ '%1$s' را در حافظۀ خارجی ایجاد کرد."
+msgstr "نمی‌توان پوشۀ '%1$s' را در حافظۀ خارجی ایجاد کرد."
 
 msgctxt "UNUSED_storage_error_external_storage_destination_is_no_directory"
 msgid "External storage destination is not a directory."
@@ -7133,31 +7133,31 @@ msgctxt "UNUSED_storage_error_no_permission_to_read_image_to_be_imported"
 msgid ""
 "Cannot import image because the permission to read external storage has not been "
 "granted."
-msgstr "نمی توان عکس را وارد کرد زیرا مجوز برای خواندن حافظۀ خارجی داده نشده است."
+msgstr "نمی‌توان عکس را وارد کرد زیرا مجوز برای خواندن حافظۀ خارجی داده نشده است."
 
 #, c-format
 msgctxt "UNUSED_storage_error_cannot_read_ifd_file"
 msgid "Cannot read IFD file in folder '%1$s'."
-msgstr "نمی توان فایل IFD را در پوشه '%1$s' بخواند."
+msgstr "نمی‌توان فایل IFD را در پوشه '%1$s' بخواند."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_open_file_does_not_exist"
 msgid "Cannot open file '%1$s' because it does not exist."
-msgstr "فایل '%1$s' را نمی توان باز کرد چون وجود ندارد."
+msgstr "فایل '%1$s' را نمی‌توان باز کرد چون وجود ندارد."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_open_file_is_folder"
 msgid "Cannot open file '%1$s' because it is a folder."
-msgstr "فایل '%1$s' را نمی توان باز کرد چون یک پوشه است."
+msgstr "فایل '%1$s' را نمی‌توان باز کرد چون یک پوشه است."
 
 #, c-format
 msgctxt "UNUSED_error_cannot_write_file"
 msgid "Cannot write to file '%1$s'."
-msgstr "نمی توان برای فایل '%1$s' نوشت."
+msgstr "نمی‌توان برای فایل '%1$s' نوشت."
 
 msgctxt "UNUSED_storage_error_cannot_load_image_file_from_remote"
 msgid "Cannot load the image file from cloud storage."
-msgstr "فایل عکس از فضای ذخیره سازی ابری بارگیری نمی شود."
+msgstr "فایل عکس از فضای ذخیره سازی ابری بارگیری نمی‌شود."
 
 msgctxt "UNUSED_storage_note_pulling_image_file_from_remote"
 msgid "Downloading image file from cloud storage."
@@ -7167,7 +7167,7 @@ msgstr "دانلود فایل عکس از فضای ذخیره سازی ابری.
 #, fuzzy
 msgctxt "UNUSED_export_dialog_saving_images_to_external_storage"
 msgid "Saving images to external storage…"
-msgstr "ذخیرۀ عکس ها در حافظۀ خارجی..."
+msgstr "ذخیرۀ عکس‌ها در حافظۀ خارجی..."
 
 #, fuzzy
 msgctxt "UNUSED_export_dialog_image_saved_to_external_storage"
@@ -7190,13 +7190,13 @@ msgid ""
 "\n"
 "Maybe you can also find them more easily under /sdcard/Pictures."
 msgstr ""
-"عکس ها در پوشۀ '%1$s' ذخیره شدند.\n"
+"عکس‌ها در پوشۀ '%1$s' ذخیره شدند.\n"
 "\n"
-"ممکن است شما آن ها را ساده تر در /sdcard/Pictures بیابید."
+"ممکن است شما آن‌ها را ساده تر در /sdcard/Pictures بیابید."
 
 msgctxt "UNUSED_export_dialog_overwrite_extpics_images_message"
 msgid "Images with the same name exist in the target directory."
-msgstr "عکس های با همین نام در فهرست هدف وجود دارد."
+msgstr "عکس‌های با همین نام در فهرست هدف وجود دارد."
 
 msgctxt "UNUSED_export_dialog_overwrite_extpics_images_overwrite"
 msgid "Overwrite"
